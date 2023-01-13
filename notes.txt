@@ -1,0 +1,8 @@
+graphviz
+dot -indiquer le chemin (/usr/bin/dot)
+plantuml
+plugin de pycharm
+variable systeme graphvix
+variable dans env pycharm
+plugin dans pycharm
+bonne syntaxe pour uml dans pycharm
