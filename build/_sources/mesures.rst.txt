@@ -74,3 +74,12 @@ Ajustement du Ph
 
     Relevé de la dernière modification du Ph pour un bassin de 50 l. Le Ph était à 6.6. Pour obtenir 5.6 ça a pris 5 ml de solution **Ph-** (floraison 34% ? non indiqué sur la bouteille). Pour remonter à 5.8 ça a pris 1 ml de solution **Ph+**.
 
+    La solution tampon serait du KCl à entre 1 er 3 moles. La recette pour en fabriquer est assez simple: K: mM = 39.1 g, Cl: mM = 35.5 g, alors masse molaire est 74.6 g Ça prend donc  3 * 74.6 = 223.8 g dans un litre d'eau pure pour obtenir une solution KCl à 3 moles.
+
+    C = n / V où
+        C = concentration molaire de la solution,
+        n = nombre actuel de moles (masse (g) / masse molaire (g/M))
+        V = volume de la solution
+
+    ∴ C = (223.6 g / 74.6 g/mole)/ 1 l = 3.0 M. (117.3 g de K + 106.5 g de Cl + 1 l eau) - ou une solution proportionnelle (55.9 g KCl //dans une tasse .25 l, par exemple).
+
