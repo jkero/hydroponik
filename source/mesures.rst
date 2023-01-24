@@ -15,13 +15,23 @@ EC
 PH
 ++
 
-   Calculé en unités de 0 à 14. 7 est neutre. 0 est le plus acide, 14 le plus basique. On cherche un Ph entre 5.8 et 6.2, selon la phase de croissance.
+   Calculé en unités de 0 à 14. 7 est neutre. 0 est le plus acide, 14 le plus alcalin (ou basique). On cherche un Ph entre 5.8 et 6.2, selon la phase de croissance.
 
     .. image:: ./images/ph.png
-      :width: 200
+      :width: 100
       :alt: jk
 
     Source: wikipedia
+
+    Pour lire le Ph de la solution ça prend soit du papier Ph, soit un lecteur. Les testeurs de piscine (par couleur) ne sont pas assez précis, le Ph est testable entre 8.2 et 6.8 seulement.
+
+    Des instruments plus précis sont en vente, mais ça peut beaucoup varier en qualité et complications.
+
+    .. image:: ./images/lecteur_ph.png
+      :width: 30
+      :alt: jk
+
+    Le modèle PH-80 arrive avec l'instruction de mouiller les senseurs de l'instrument dans une *solution tampon* (*storage solution*) 15 minutes avant l'utilisation. L'instrument vient aussi avec une solution d'étalonnage à Ph 7.0. L'instrument s'étalonne tout seul à 7.0 en mode *calibration*.
 
 Température
 +++++++++++
@@ -56,4 +66,11 @@ Lumière
      - 1,0 - 1,4
      - 5,8
      - 18h -6h
+
 Source : http://www.hydroplanete.com/guide-de-culture-pxl-18.html
+
+Ajustement du Ph
+++++++++++++++++
+
+    Relevé de la dernière modification du Ph pour un bassin de 50 l. Le Ph était à 6.6. Pour obtenir 5.6 ça a pris 5 ml de solution **Ph-** (floraison 34% ? non indiqué sur la bouteille). Pour remonter à 5.8 ça a pris 1 ml de solution **Ph+**.
+
