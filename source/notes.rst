@@ -1,6 +1,6 @@
 Notes
 =====
-
+.. _solutions:
 Les solutions nutritives actuelles
 ++++++++++++++++++++++++++++++++++
 .. list-table:: Solutions
@@ -19,7 +19,7 @@ Les solutions nutritives actuelles
 
 Posologie du fabricant
 ++++++++++++++++++++++
-A et B: 8 ml par 10l solution EC recommandé : 0.9 mS/cm Ph : 6.3.
+A et B: 8 ml par 10 l de solution : EC recommandé : 0.9 mS/cm Ph : 6.3.
 
 * Note: commencer par la moitié de ces quantités, le EC final était plus élevé que prévu.
 
@@ -30,9 +30,9 @@ Il y a donc des compromis à faire car il y a des écarts entre les valeurs des 
 Ajout de nutriments et remplacement du liquide
 ++++++++++++++++++++++++++++++++++++++++++++++
 
-Quand doit-on ajouter de la solutions nutritive fraîche: pas clair. On se fie à la lecture EC pour la concentration générale... Ça ne varie pas beaucoup (contrairement au Ph qui augmente de ~0.1 par jour).
+Quand doit-on ajouter de la solutions nutritive fraîche ? Pas clair. On se fie à la lecture EC pour la concentration générale... Ça ne varie pas beaucoup (contrairement au Ph qui augmente de ~0.1 par jour).
 
-On remplace l'eau : quelques litres "neufs" par semaine + ajustements Ph ad hoc.
+On remplace l'eau : quelques litres "neufs" par semaine + ajustements Ph ad hoc [#f1]_.
 
 Horaire d'irrigation
 ++++++++++++++++++++
@@ -44,3 +44,7 @@ Pour le moment ça a été 3 X 15 min. par jour. Ça ne semble pas assez, croiss
 Types de diffuseurs (drippers)
 ++++++++++++++++++++++++++++++
 On a le modèle en forme de piquet pour un pot carré de 13 cm de côté, ça n'a pas l'air de mouiller toutes les billes d'argile. Ça prendrait peut-être un diffuseur plus large, qui couvre plus de surface.
+
+
+.. [#f1] Exemple de résultat pour un changement de liquide: 20 l de solution remplacés par eau du robinet: le EC est passé de 1.35 à 0.6 et le Ph a un peu augmenté 6.2 à 6.5 ; pour équilibrer la soupe on a ajouté 30 ml de A et 30 ml de B (2 fois moins que selon les instructions du fabricant), puis ~2.5 ml de Ph-. Résultat final : EC à 1.24 et Ph à 5.6.
+

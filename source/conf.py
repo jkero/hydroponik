@@ -25,6 +25,7 @@ extensions = ['sphinxcontrib.plantuml',
               'sphinx.ext.todo',
               'sphinx.ext.viewcode',
               'sphinx_rtd_theme',
+              'sphinx.ext.intersphinx',
               ]
 
 plantuml = ['java', '-jar', '/usr/share/umltools/plantuml.jar']

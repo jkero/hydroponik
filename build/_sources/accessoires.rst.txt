@@ -13,6 +13,9 @@ Accessoires
 * Substrat
     Boulettes d'argile
 
+* Solutions nutritives
+    Par exemple A et B selon fabriquant (v. :ref:`solutions`).
+
 * Lecteurs(  Ph,  EC,TDS,temp. )
     1 EC, 1 Ph ; les deux donnent aussi la température.
 
