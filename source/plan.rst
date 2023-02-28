@@ -21,3 +21,10 @@ Plan de culture
         :tatsoï;
         :piment;
     @enduml
+
+-------
+Rappels
+-------
+    .. todolist::
+
+...

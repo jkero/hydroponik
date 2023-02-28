@@ -28,12 +28,21 @@ Produits de HGDI Québec, Hydro-Dionne détaillant.
 
 Il y a donc des compromis à faire car il y a des écarts entre les valeurs des fabricants et les valeurs générales pour la croissance des diverses plantes...
 
+.. todo::
+    Renouveler alimentation (solution nutritive) régulièrement (conjointement avec remplacement de l'eau).
+
 Ajout de nutriments et remplacement du liquide
 ++++++++++++++++++++++++++++++++++++++++++++++
 
 Quand doit-on ajouter de la solutions nutritive fraîche ? Pas clair. On se fie à la lecture EC pour la concentration générale... Ça ne varie pas beaucoup (contrairement au Ph qui augmente de ~0.1 par jour).
 
+.. todo::
+    Vérifier le Ph de la soupe aux 3 jours ; dans les conditions actuelles ajouter 1 ml de **Ph-** aux 4 jours.
+
 On remplace l'eau : quelques litres "neufs" par semaine + ajustements Ph ad hoc [#f1]_.
+
+.. todo::
+    Remplacer 10-15 litres eau aux 2-3 semaines et ajuster nutriments et Ph.
 
 Horaire d'irrigation
 ++++++++++++++++++++
@@ -48,4 +57,3 @@ On a le modèle en forme de piquet pour un pot carré de 13 cm de côté, ça n'
 
 
 .. [#f1] Exemple de résultat pour un changement de liquide: 20 l de solution remplacés par eau du robinet: le EC est passé de 1.35 à 0.6 et le Ph a un peu augmenté 6.2 à 6.5 ; pour équilibrer la soupe on a ajouté 30 ml de A et 30 ml de B (2 fois moins que selon les instructions du fabricant), puis ~2.5 ml de Ph-. Résultat final : EC à 1.24 et Ph à 5.6.
-

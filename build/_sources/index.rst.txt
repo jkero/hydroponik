@@ -7,7 +7,7 @@ Notes de notre projet hydroponique
 ==================================
 .. meta::
    :description: Exemple de projet hydroponique
-   :keywords: hydroponique versagrow boulettes_argile Ph EC projet
+   :keywords: hydroponique versagrow boulettes_argile Ph EC projet.
 
 .. toctree::
    :maxdepth: 3
@@ -15,5 +15,6 @@ Notes de notre projet hydroponique
    mesures
    accessoires
    notes
+   plan
 
 * :ref:`search`

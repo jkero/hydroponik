@@ -2,11 +2,9 @@
 <html class="writer-html5" lang="fr" >
 <head>
   <meta charset="utf-8" /><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
-<meta content="Exemple de projet hydroponique" name="description" />
-<meta content="hydroponique versagrow boulettes_argile Ph EC projet." name="keywords" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Notes de notre projet hydroponique &mdash; Documentation Hydroponique 0.1</title>
+  <title>Plan de culture &mdash; Documentation Hydroponique 0.1</title>
       <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
       <link rel="stylesheet" href="_static/css/theme.css" type="text/css" />
       <link rel="stylesheet" href="_static/graphviz.css" type="text/css" />
@@ -23,7 +21,7 @@
     <script src="_static/js/theme.js"></script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Recherche" href="search.html" />
-    <link rel="next" title="Mesures" href="mesures.html" /> 
+    <link rel="prev" title="Notes" href="notes.html" /> 
 </head>
 
 <body class="wy-body-for-nav"> 
@@ -34,7 +32,7 @@
 
           
           
-          <a href="#" class="icon icon-home">
+          <a href="index.html" class="icon icon-home">
             Hydroponique
           </a>
 <div role="search">
@@ -45,11 +43,14 @@
   </form>
 </div>
         </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
-              <ul>
+              <ul class="current">
 <li class="toctree-l1"><a class="reference internal" href="mesures.html">Mesures</a></li>
 <li class="toctree-l1"><a class="reference internal" href="accessoires.html">Accessoires</a></li>
 <li class="toctree-l1"><a class="reference internal" href="notes.html">Notes</a></li>
-<li class="toctree-l1"><a class="reference internal" href="plan.html">Plan de culture</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Plan de culture</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#rappels">Rappels</a></li>
+</ul>
+</li>
 </ul>
 
         </div>
@@ -58,15 +59,15 @@
 
     <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu"  style="background: #087A19" >
           <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
-          <a href="#">Hydroponique</a>
+          <a href="index.html">Hydroponique</a>
       </nav>
 
       <div class="wy-nav-content">
         <div class="rst-content">
           <div role="navigation" aria-label="Page navigation">
   <ul class="wy-breadcrumbs">
-      <li><a href="#" class="icon icon-home" aria-label="Home"></a></li>
-      <li class="breadcrumb-item active">Notes de notre projet hydroponique</li>
+      <li><a href="index.html" class="icon icon-home" aria-label="Home"></a></li>
+      <li class="breadcrumb-item active">Plan de culture</li>
       <li class="wy-breadcrumbs-aside">
       </li>
   </ul>
@@ -75,44 +76,61 @@
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
            <div itemprop="articleBody">
              
-  <section id="notes-de-notre-projet-hydroponique">
-<h1>Notes de notre projet hydroponique<a class="headerlink" href="#notes-de-notre-projet-hydroponique" title="Lien permanent vers cette rubrique"></a></h1>
-<div class="toctree-wrapper compound">
-<ul>
-<li class="toctree-l1"><a class="reference internal" href="mesures.html">Mesures</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="mesures.html#ec">EC</a></li>
-<li class="toctree-l2"><a class="reference internal" href="mesures.html#ph">PH</a></li>
-<li class="toctree-l2"><a class="reference internal" href="mesures.html#temperature">Température</a></li>
-<li class="toctree-l2"><a class="reference internal" href="mesures.html#tds">TDS</a></li>
-<li class="toctree-l2"><a class="reference internal" href="mesures.html#lumiere">Lumière</a></li>
-<li class="toctree-l2"><a class="reference internal" href="mesures.html#ajustement-du-ph">Ajustement du Ph</a></li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="accessoires.html">Accessoires</a></li>
-<li class="toctree-l1"><a class="reference internal" href="notes.html">Notes</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="notes.html#les-solutions-nutritives-actuelles">Les solutions nutritives actuelles</a></li>
-<li class="toctree-l2"><a class="reference internal" href="notes.html#posologie-du-fabricant">Posologie du fabricant</a></li>
-<li class="toctree-l2"><a class="reference internal" href="notes.html#ajout-de-nutriments-et-remplacement-du-liquide">Ajout de nutriments et remplacement du liquide</a></li>
-<li class="toctree-l2"><a class="reference internal" href="notes.html#horaire-d-irrigation">Horaire d’irrigation</a></li>
-<li class="toctree-l2"><a class="reference internal" href="notes.html#types-de-diffuseurs-drippers">Types de diffuseurs (drippers)</a></li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="plan.html">Plan de culture</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="plan.html#rappels">Rappels</a></li>
-</ul>
-</li>
-</ul>
+  <section id="plan-de-culture">
+<h1>Plan de culture<a class="headerlink" href="#plan-de-culture" title="Lien permanent vers cette rubrique"></a></h1>
+<p class="plantuml">
+<img src="_images/plantuml-2c1a8b8d8e061bd5271006dc1ee191c2111ff7c3.png" alt="&#64;startuml
+start
+split
+    :piment-1;
+    :basilic/laitue;
+split again
+:laitue (lufa);
+    :piment-2;
+    split again
+    :tomate;
+    :tomate;
+    split again
+    :kale;
+    :persil;
+    split again
+    :tatsoï;
+    :piment;
+&#64;enduml"/>
+</p>
+<section id="rappels">
+<h2>Rappels<a class="headerlink" href="#rappels" title="Lien permanent vers cette rubrique"></a></h2>
+<blockquote>
+<div><div class="admonition-todo admonition">
+<p class="admonition-title">À faire</p>
+<p>Conserver les bases des lecteurs dans une solution neutre ou légèrement alcaline (KCl(3M)).</p>
 </div>
-<ul class="simple">
-<li><p><a class="reference internal" href="search.html"><span class="std std-ref">Page de recherche</span></a></p></li>
-</ul>
+<p class="todo-source"><a class="reference internal" href="mesures.html#id2"><em>entrée originale</em></a></p>
+<div class="admonition-todo admonition">
+<p class="admonition-title">À faire</p>
+<p>Renouveler alimentation (solution nutritive) régulièrement (conjointement avec remplacement de l’eau).</p>
+</div>
+<p class="todo-source"><a class="reference internal" href="notes.html#id1"><em>entrée originale</em></a></p>
+<div class="admonition-todo admonition">
+<p class="admonition-title">À faire</p>
+<p>Vérifier le Ph de la soupe aux 3 jours ; dans les conditions actuelles ajouter 1 ml de <strong>Ph-</strong> aux 4 jours.</p>
+</div>
+<p class="todo-source"><a class="reference internal" href="notes.html#id2"><em>entrée originale</em></a></p>
+<div class="admonition-todo admonition">
+<p class="admonition-title">À faire</p>
+<p>Remplacer 10-15 litres eau aux 2-3 semaines et ajuster nutriments et Ph.</p>
+</div>
+<p class="todo-source"><a class="reference internal" href="notes.html#id4"><em>entrée originale</em></a></p>
+</div></blockquote>
+<p>…</p>
+</section>
 </section>
 
 
            </div>
           </div>
           <footer><div class="rst-footer-buttons" role="navigation" aria-label="Pied de page">
-        <a href="mesures.html" class="btn btn-neutral float-right" title="Mesures" accesskey="n" rel="next">Suivant <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+        <a href="notes.html" class="btn btn-neutral float-left" title="Notes" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Précédent</a>
     </div>
 
   <hr/>

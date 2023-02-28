@@ -33,6 +33,10 @@ Des instruments plus précis sont en vente, mais ça peut beaucoup varier en qua
 
 Le modèle PH-80 arrive avec l'instruction de mouiller les senseurs de l'instrument dans une *solution tampon* (*storage solution*) 15 minutes avant l'utilisation. L'instrument vient aussi avec une solution d'étalonnage à Ph 7.0. L'instrument s'étalonne tout seul à 7.0 en mode *calibration*. Ça va prendre un peu de KCl pour se fabriquer cette solution [#f1]_.
 
+.. todo::
+    Conserver les bases des lecteurs dans une solution neutre ou légèrement alcaline (KCl(3M)).
+
+
 Température
 +++++++++++
 
@@ -55,17 +59,17 @@ Un équipement qui produit une température spécifique en ° Kelvin (feuilles: 
    :header-rows: 1
 
    * - Stades
- - EC
- - PH
- - Cycle lumineux (jour - nuit)
+     - EC
+     - PH
+     - Cycle lumineux (jour - nuit)
    * - germination
- - 0,8 - 1,0
- - 5,8
- - 18h - 6h
+     - 0,8 - 1,0
+     - 5,8
+     - 18h - 6h
    * - phase végétative
- - 1,0 - 1,4
- - 5,8
- - 18h -6h
+     - 1,0 - 1,4
+     - 5,8
+     - 18h -6h
 
 Source : http://www.hydroplanete.com/guide-de-culture-pxl-18.html
 

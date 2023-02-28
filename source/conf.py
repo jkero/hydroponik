@@ -59,3 +59,9 @@ html_show_sourcelink = False
 html_static_path = ['_static']
 html_css_files = ['css/custom.css',]
 
+todo_include_todos = True
+todolist = True
+todo_link_only = True
+
+
+
