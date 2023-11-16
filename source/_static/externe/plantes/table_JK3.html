@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+<!--
+<link href="https://cdn.datatables.net/v/dt/dt-1.13.7/datatables.min.css" rel="stylesheet">
+<script src="https://cdn.datatables.net/v/dt/dt-1.13.7/datatables.min.js"></script>
+-->
+<script src="js/jquery371.js"></script>
+<link href="css/jk.css" rel="stylesheet">
+<script>
+ $(document).ready(function() {
+               $('#stage').html('<thead><tr><th>nom</th><th>ec_min</th><th>ec_max</th><th>ph_min</th><th>ph_max</th><th>prod</th></tr></thead>')
+               $.getJSON('les_plantes_7.json', function(jd) {
+                    for (let inx =0 ; inx < jd.plante.length ; inx++){
+                   $('#stage').append('<tr><td>' + jd.plante[inx].nom +  '</td><td>' + jd.plante[inx].ec_min +  '</td><td>' + jd.plante[inx].ec_max +  '</td><td>' + jd.plante[inx].ph_min +  '</td><td>' + jd.plante[inx].ph_max +  '</td><td>' + jd.plante[inx].prod +  '</td></tr>')}
+                   });
+            });
+</script>
+</head>
+<body>
+<table id = "stage" style = "background-color:#cc0;">
+</table>
+
+
+
+
+</body>
+</html>

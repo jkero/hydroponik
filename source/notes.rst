@@ -55,5 +55,17 @@ Types de diffuseurs (drippers)
 ++++++++++++++++++++++++++++++
 On a le modèle en forme de piquet pour un pot carré de 13 cm de côté, ça n'a pas l'air de mouiller toutes les billes d'argile. Ça prendrait peut-être un diffuseur plus large, qui couvre plus de surface.
 
+Fin de la culture (saison 1)
+++++++++++++++++++++++++++++++
+La terre, la vraie, celle qu'il faut mouvoir, nourrir et ensemencer, appelant les seules ressources disponibles, on a simplement arrêté la culture hydroponique et nettoyé l'équipement.
+
+Conclusion : des piments variés (peut-être un demi kilo), un peu de petites tomates (pas éclatant comme résultat) un peu de kale et de
+la laitue. Pour ce premier test on a fait quelques erreurs dont (pour le test) faire pousser des plantes qui n'ont pas les mêmes besoins nutritifs. Les piment sont partis à l'assaut de l'éclairage et ont vite monopolisé la lumière, sauf des percées artificielles de notre part.
+
+Quelques remarques finales: vu le compromis entre tomates et piments, on a maintenu le ph entre 5.8 et 6.3. L'E.C. a été maintenue entre 1.8 et 3 (vers la fin). La quantité de nutrimens semblait exponentielle pour affecter la lecture d'un dixième de milli-siemens/cm...
+
+On recommence cet hiver avec des plantes à feuilles seulement.
+
+Derniers changements : |today|
 
 .. [#f1] Exemple de résultat pour un changement de liquide: 20 l de solution remplacés par eau du robinet: le EC est passé de 1.35 à 0.6 et le Ph a un peu augmenté 6.2 à 6.5 ; pour équilibrer la soupe on a ajouté 30 ml de A et 30 ml de B (2 fois moins que selon les instructions du fabricant), puis ~2.5 ml de Ph-. Résultat final : EC à 1.24 et Ph à 5.6.

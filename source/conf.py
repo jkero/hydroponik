@@ -41,7 +41,7 @@ language = 'fr'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme = "sphinx_rtd_theme"
-html_theme_options = {'show_powered_by' : 'False',
+html_theme_options = {
     'analytics_anonymize_ip': False,
     'logo_only': False,
     'display_version': True,
@@ -58,6 +58,8 @@ html_theme_options = {'show_powered_by' : 'False',
 html_show_sourcelink = False
 html_static_path = ['_static']
 html_css_files = ['css/custom.css',]
+
+today_fmt = '%d %b %Y'
 
 todo_include_todos = True
 todolist = True

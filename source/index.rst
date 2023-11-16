@@ -6,15 +6,17 @@
 Notes de notre projet hydroponique
 ==================================
 .. meta::
-   :description: Exemple de projet hydroponique
-   :keywords: hydroponique versagrow boulettes_argile Ph EC projet.
+   :description: Percipere projet hydroponique
+   :keywords: hydroponique québec percipere.ca Ph EC projet.
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
 
    mesures
    accessoires
-   notes
    plan
+   notes
+   saison2
+   table1
 
 * :ref:`search`

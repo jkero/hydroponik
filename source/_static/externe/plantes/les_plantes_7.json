@@ -1,0 +1,1884 @@
+{"plante":[
+ {
+        "id": "2",
+        "nom": "Artichoke",
+        "ec_min": "0.8",
+        "ec_max": "1.8",
+        "ph_min": "6.5",
+        "ph_max": "7.5",
+        "prod": "feuille"
+    },
+ {
+        "id": "3",
+        "nom": "Arugula",
+        "ec_min": "0.8",
+        "ec_max": "1.8",
+        "ph_min": "6.0",
+        "ph_max": "7.5",
+        "prod": "feuille"
+    },
+ {
+        "id": "4",
+        "nom": "Asparagus",
+        "ec_min": "1.4",
+        "ec_max": "1.8",
+        "ph_min": "6.0",
+        "ph_max": "6.8",
+        "prod": "tige"
+    },
+ {
+        "id": "5",
+        "nom": "Banana",
+        "ec_min": "1.8",
+        "ec_max": "2.2",
+        "ph_min": "5.5",
+        "ph_max": "6.5",
+        "prod": "fruit"
+    },
+ {
+        "id": "6",
+        "nom": "Beans",
+        "ec_min": "1.8",
+        "ec_max": "2.5",
+        "ph_min": "6.0",
+        "ph_max": "6.5",
+        "prod": "feve"
+    },
+ {
+        "id": "7",
+        "nom": "Beetroot",
+        "ec_min": "0.8",
+        "ec_max": "5.0",
+        "ph_min": "6.0",
+        "ph_max": "6.5",
+        "prod": "racine"
+    },
+ {
+        "id": "8",
+        "nom": "Bell Pepper",
+        "ec_min": "1.8",
+        "ec_max": "2.8",
+        "ph_min": "6.0",
+        "ph_max": "6.5",
+        "prod": "fruit"
+    },
+ {
+        "id": "9",
+        "nom": "Black currant",
+        "ec_min": "1.4",
+        "ec_max": "1.8",
+        "ph_min": "6.0",
+        "ph_max": "6.0",
+        "prod": "fruit"
+    },
+ {
+        "id": "10",
+        "nom": "Blueberry",
+        "ec_min": "1.8",
+        "ec_max": "2.0",
+        "ph_min": "4.0",
+        "ph_max": "5.0",
+        "prod": "fruit"
+    },
+ {
+        "id": "11",
+        "nom": "Broad bean",
+        "ec_min": "1.8",
+        "ec_max": "2.2",
+        "ph_min": "6.0",
+        "ph_max": "6.5",
+        "prod": "feve"
+    },
+ {
+        "id": "12",
+        "nom": "Broccoli",
+        "ec_min": "2.8",
+        "ec_max": "3.5",
+        "ph_min": "6.0",
+        "ph_max": "6.5",
+        "prod": "tige"
+    },
+ {
+        "id": "13",
+        "nom": "Brussels sprouts",
+        "ec_min": "2.5",
+        "ec_max": "3.0",
+        "ph_min": "6.5",
+        "ph_max": "7.5",
+        "prod": "feuille"
+    },
+ {
+        "id": "14",
+        "nom": "Cabbage",
+        "ec_min": "2.5",
+        "ec_max": "3.0",
+        "ph_min": "6.5",
+        "ph_max": "7.0",
+        "prod": "feuille"
+    },
+ {
+        "id": "15",
+        "nom": "Carrots",
+        "ec_min": "1.6",
+        "ec_max": "2.0",
+        "ph_min": "6.3",
+        "ph_max": "6.3",
+        "prod": "racine"
+    },
+ {
+        "id": "16",
+        "nom": "Cauliflower",
+        "ec_min": "0.5",
+        "ec_max": "2.0",
+        "ph_min": "6.0",
+        "ph_max": "7.0",
+        "prod": "tige"
+    },
+ {
+        "id": "17",
+        "nom": "Celery",
+        "ec_min": "1.8",
+        "ec_max": "2.4",
+        "ph_min": "6.5",
+        "ph_max": "6.5",
+        "prod": "tige"
+    },
+ {
+        "id": "18",
+        "nom": "Chili",
+        "ec_min": "1.8",
+        "ec_max": "2.8",
+        "ph_min": "5.8",
+        "ph_max": "6.3",
+        "prod": "fruit"
+    },
+ {
+        "id": "19",
+        "nom": "Cress",
+        "ec_min": "1.2",
+        "ec_max": "2.4",
+        "ph_min": "6.0",
+        "ph_max": "6.5",
+        "prod": "feuille"
+    },
+ {
+        "id": "20",
+        "nom": "Cucumber",
+        "ec_min": "1.7",
+        "ec_max": "2.5",
+        "ph_min": "5.8",
+        "ph_max": "6.0",
+        "prod": "fruit"
+    },
+ {
+        "id": "21",
+        "nom": "Edible Flower",
+        "ec_min": "1.5",
+        "ec_max": "1.5",
+        "ph_min": "5.5",
+        "ph_max": "6.0",
+        "prod": "fleur"
+    },
+ {
+        "id": "22",
+        "nom": "Eggplant",
+        "ec_min": "2.5",
+        "ec_max": "3.5",
+        "ph_min": "5.5",
+        "ph_max": "6.5",
+        "prod": "fruit"
+    },
+ {
+        "id": "23",
+        "nom": "Endive",
+        "ec_min": "2.0",
+        "ec_max": "2.4",
+        "ph_min": "5.5",
+        "ph_max": "5.5",
+        "prod": "feuille"
+    },
+ {
+        "id": "24",
+        "nom": "Ginger",
+        "ec_min": "2.0",
+        "ec_max": "2.5",
+        "ph_min": "5.8",
+        "ph_max": "6.0",
+        "prod": "racine"
+    },
+ {
+        "id": "25",
+        "nom": "Garlic",
+        "ec_min": "1.4",
+        "ec_max": "1.8",
+        "ph_min": "6.0",
+        "ph_max": "6.0",
+        "prod": "bulbe"
+    },
+ {
+        "id": "26",
+        "nom": "Hot peppers",
+        "ec_min": "1.4",
+        "ec_max": "1.8",
+        "ph_min": "6.0",
+        "ph_max": "6.5",
+        "prod": "fruit"
+    },
+ {
+        "id": "27",
+        "nom": "Kale",
+        "ec_min": "1.3",
+        "ec_max": "1.5",
+        "ph_min": "5.5",
+        "ph_max": "6.5",
+        "prod": "feuille"
+    },
+ {
+        "id": "28",
+        "nom": "Leeks",
+        "ec_min": "1.4",
+        "ec_max": "1.8",
+        "ph_min": "6.5",
+        "ph_max": "7.0",
+        "prod": "feuille"
+    },
+ {
+        "id": "29",
+        "nom": "Lemon balm",
+        "ec_min": "1.0",
+        "ec_max": "1.6",
+        "ph_min": "5.5",
+        "ph_max": "6.5",
+        "prod": "feuille"
+    },
+ {
+        "id": "30",
+        "nom": "Lettuce",
+        "ec_min": "0.8",
+        "ec_max": "1.2",
+        "ph_min": "5.5",
+        "ph_max": "6.5",
+        "prod": "feuille"
+    },
+ {
+        "id": "31",
+        "nom": "Melon",
+        "ec_min": "2.0",
+        "ec_max": "2.5",
+        "ph_min": "5.5",
+        "ph_max": "6.0",
+        "prod": "fruit"
+    },
+ {
+        "id": "32",
+        "nom": "Onions",
+        "ec_min": "1.2",
+        "ec_max": "1.8",
+        "ph_min": "6.0",
+        "ph_max": "6.7",
+        "prod": "bulbe"
+    },
+ {
+        "id": "33",
+        "nom": "Okra",
+        "ec_min": "2.0",
+        "ec_max": "2.4",
+        "ph_min": "6.5",
+        "ph_max": "6.5",
+        "prod": "fruit"
+    },
+ {
+        "id": "34",
+        "nom": "Pak Choi_Tatsoi",
+        "ec_min": "1.5",
+        "ec_max": "2.0",
+        "ph_min": "6.0",
+        "ph_max": "7.5",
+        "prod": "feuille"
+    },
+ {
+        "id": "35",
+        "nom": "Parsnip",
+        "ec_min": "1.4",
+        "ec_max": "1.8",
+        "ph_min": "6.0",
+        "ph_max": "6.0",
+        "prod": "racine"
+    },
+ {
+        "id": "36",
+        "nom": "Pea",
+        "ec_min": "0.8",
+        "ec_max": "1.8",
+        "ph_min": "6.0",
+        "ph_max": "7.0",
+        "prod": "feve"
+    },
+ {
+        "id": "37",
+        "nom": "Pineapple",
+        "ec_min": "2.0",
+        "ec_max": "2.4",
+        "ph_min": "5.5",
+        "ph_max": "6.0",
+        "prod": "fruit"
+    },
+ {
+        "id": "38",
+        "nom": "Potato",
+        "ec_min": "2.0",
+        "ec_max": "2.5",
+        "ph_min": "5.0",
+        "ph_max": "6.0",
+        "prod": "racine"
+    },
+ {
+        "id": "39",
+        "nom": "Pumpkin",
+        "ec_min": "1.8",
+        "ec_max": "2.4",
+        "ph_min": "5.5",
+        "ph_max": "7.5",
+        "prod": "fruit"
+    },
+ {
+        "id": "40",
+        "nom": "Radish",
+        "ec_min": "1.6",
+        "ec_max": "2.2",
+        "ph_min": "6.0",
+        "ph_max": "7.0",
+        "prod": "racine"
+    },
+ {
+        "id": "41",
+        "nom": "Red currant",
+        "ec_min": "1.4",
+        "ec_max": "1.8",
+        "ph_min": "6.0",
+        "ph_max": "6.0",
+        "prod": "fruit"
+    },
+ {
+        "id": "42",
+        "nom": "Rhubarb",
+        "ec_min": "1.6",
+        "ec_max": "2.0",
+        "ph_min": "5.0",
+        "ph_max": "6.0",
+        "prod": "tige"
+    },
+ {
+        "id": "43",
+        "nom": "Salad",
+        "ec_min": "0.8",
+        "ec_max": "1.5",
+        "ph_min": "5.5",
+        "ph_max": "6.5",
+        "prod": "feuille"
+    },
+ {
+        "id": "44",
+        "nom": "Rocket",
+        "ec_min": "0.8",
+        "ec_max": "1.2",
+        "ph_min": "6.0",
+        "ph_max": "7.5",
+        "prod": "feuille"
+    },
+ {
+        "id": "45",
+        "nom": "Spinach",
+        "ec_min": "1.8",
+        "ec_max": "2.3",
+        "ph_min": "6.0",
+        "ph_max": "7.0",
+        "prod": "feuille"
+    },
+ {
+        "id": "46",
+        "nom": "Strawberry",
+        "ec_min": "1.8",
+        "ec_max": "2.2",
+        "ph_min": "5.5",
+        "ph_max": "6.5",
+        "prod": "fruit"
+    },
+ {
+        "id": "47",
+        "nom": "Sweet Corn",
+        "ec_min": "1.6",
+        "ec_max": "2.4",
+        "ph_min": "6.0",
+        "ph_max": "6.0",
+        "prod": "fruit"
+    },
+ {
+        "id": "48",
+        "nom": "Sweet Potato",
+        "ec_min": "2.0",
+        "ec_max": "2.5",
+        "ph_min": "6.0",
+        "ph_max": "6.5",
+        "prod": "racine"
+    },
+ {
+        "id": "49",
+        "nom": "Swiss chard",
+        "ec_min": "1.8",
+        "ec_max": "2.3",
+        "ph_min": "6.0",
+        "ph_max": "7.0",
+        "prod": "feuille"
+    },
+ {
+        "id": "50",
+        "nom": "Sweet Granadilla",
+        "ec_min": "1.6",
+        "ec_max": "2.4",
+        "ph_min": "6.5",
+        "ph_max": "6.5",
+        "prod": "fruit"
+    },
+ {
+        "id": "51",
+        "nom": "Tomatoes",
+        "ec_min": "1.5",
+        "ec_max": "2.5",
+        "ph_min": "5.5",
+        "ph_max": "6.5",
+        "prod": "fruit"
+    },
+ {
+        "id": "52",
+        "nom": "Turnip",
+        "ec_min": "1.8",
+        "ec_max": "2.4",
+        "ph_min": "6.0",
+        "ph_max": "6.5",
+        "prod": "racine"
+    },
+ {
+        "id": "53",
+        "nom": "Watermelon",
+        "ec_min": "1.5",
+        "ec_max": "2.4",
+        "ph_min": "5.8",
+        "ph_max": "5.8",
+        "prod": "fruit"
+    },
+ {
+        "id": "54",
+        "nom": "Zucchini",
+        "ec_min": "1.8",
+        "ec_max": "2.4",
+        "ph_min": "6.0",
+        "ph_max": "6.0",
+        "prod": "fruit"
+    },
+ {
+        "id": "55",
+        "nom": "Asparagus",
+        "ec_min": "1.4",
+        "ec_max": "1.8",
+        "ph_min": "6.0",
+        "ph_max": "6.8",
+        "prod": "tige"
+    },
+ {
+        "id": "56",
+        "nom": "African Violet",
+        "ec_min": "1.2",
+        "ec_max": "1.5",
+        "ph_min": "6.0",
+        "ph_max": "7.0",
+        "prod": "fleur"
+    },
+ {
+        "id": "57",
+        "nom": "Basil",
+        "ec_min": "1.0",
+        "ec_max": "1.6",
+        "ph_min": "5.5",
+        "ph_max": "6.0",
+        "prod": "feuille"
+    },
+ {
+        "id": "58",
+        "nom": "Bean",
+        "ec_min": "2.0",
+        "ec_max": "4.0",
+        "ph_min": "6.0",
+        "ph_max": "6.0",
+        "prod": "f\u00e8ve"
+    },
+ {
+        "id": "59",
+        "nom": "Banana",
+        "ec_min": "1.8",
+        "ec_max": "2.2",
+        "ph_min": "5.5",
+        "ph_max": "6.5",
+        "prod": "fruit"
+    },
+ {
+        "id": "60",
+        "nom": "Broccoli",
+        "ec_min": "2.8",
+        "ec_max": "3.5",
+        "ph_min": "6.0",
+        "ph_max": "6.8",
+        "prod": "tige"
+    },
+ {
+        "id": "61",
+        "nom": "Cabbage",
+        "ec_min": "2.5",
+        "ec_max": "3.0",
+        "ph_min": "6.5",
+        "ph_max": "7.0",
+        "prod": "feuille"
+    },
+ {
+        "id": "62",
+        "nom": "Celery",
+        "ec_min": "1.8",
+        "ec_max": "2.4",
+        "ph_min": "6.5",
+        "ph_max": "6.5",
+        "prod": "tige"
+    },
+ {
+        "id": "63",
+        "nom": "Carnation",
+        "ec_min": "2.0",
+        "ec_max": "3.5",
+        "ph_min": "6.0",
+        "ph_max": "6.0",
+        "prod": "fleur"
+    },
+ {
+        "id": "64",
+        "nom": "Courgettes",
+        "ec_min": "1.8",
+        "ec_max": "2.4",
+        "ph_min": "6.0",
+        "ph_max": "6.0",
+        "prod": "fruit"
+    },
+ {
+        "id": "65",
+        "nom": "Cucumber",
+        "ec_min": "1.7",
+        "ec_max": "2.0",
+        "ph_min": "5.0",
+        "ph_max": "5.5",
+        "prod": "fruit"
+    },
+ {
+        "id": "66",
+        "nom": "Eggplant",
+        "ec_min": "2.5",
+        "ec_max": "3.5",
+        "ph_min": "6.0",
+        "ph_max": "6.0",
+        "prod": "fruit"
+    },
+ {
+        "id": "67",
+        "nom": "Ficus",
+        "ec_min": "1.6",
+        "ec_max": "2.4",
+        "ph_min": "5.5",
+        "ph_max": "6.0",
+        "prod": "feuille"
+    },
+ {
+        "id": "68",
+        "nom": "Leek",
+        "ec_min": "1.4",
+        "ec_max": "1.8",
+        "ph_min": "6.5",
+        "ph_max": "7.0",
+        "prod": "feuille"
+    },
+ {
+        "id": "69",
+        "nom": "Lettuce",
+        "ec_min": "1.2",
+        "ec_max": "1.8",
+        "ph_min": "6.0",
+        "ph_max": "7.0",
+        "prod": "feuille"
+    },
+ {
+        "id": "70",
+        "nom": "Marrow",
+        "ec_min": "1.8",
+        "ec_max": "2.4",
+        "ph_min": "6.0",
+        "ph_max": "6.0",
+        "prod": "fruit"
+    },
+ {
+        "id": "71",
+        "nom": "Okra",
+        "ec_min": "2.0",
+        "ec_max": "2.4",
+        "ph_min": "6.5",
+        "ph_max": "6.5",
+        "prod": "fruit"
+    },
+ {
+        "id": "72",
+        "nom": "Pak Choi",
+        "ec_min": "1.5",
+        "ec_max": "2.0",
+        "ph_min": "7.0",
+        "ph_max": "7.0",
+        "prod": "feuille"
+    },
+ {
+        "id": "73",
+        "nom": "Peppers",
+        "ec_min": "0.8",
+        "ec_max": "1.8",
+        "ph_min": "5.5",
+        "ph_max": "6.0",
+        "prod": "fruit"
+    },
+ {
+        "id": "74",
+        "nom": "Parsley",
+        "ec_min": "1.8",
+        "ec_max": "2.2",
+        "ph_min": "6.0",
+        "ph_max": "6.5",
+        "prod": "feuille"
+    },
+ {
+        "id": "75",
+        "nom": "Rhubarb",
+        "ec_min": "1.6",
+        "ec_max": "2.0",
+        "ph_min": "5.5",
+        "ph_max": "6.0",
+        "prod": "tige"
+    },
+ {
+        "id": "76",
+        "nom": "Rose",
+        "ec_min": "1.5",
+        "ec_max": "2.5",
+        "ph_min": "5.5",
+        "ph_max": "6.0",
+        "prod": "fleur"
+    },
+ {
+        "id": "77",
+        "nom": "Spinach",
+        "ec_min": "1.8",
+        "ec_max": "2.3",
+        "ph_min": "6.0",
+        "ph_max": "7.0",
+        "prod": "feuille"
+    },
+ {
+        "id": "78",
+        "nom": "Strawberry",
+        "ec_min": "1.8",
+        "ec_max": "2.2",
+        "ph_min": "6.0",
+        "ph_max": "6.0",
+        "prod": "fruit"
+    },
+ {
+        "id": "79",
+        "nom": "Sage",
+        "ec_min": "1.0",
+        "ec_max": "1.6",
+        "ph_min": "5.5",
+        "ph_max": "6.5",
+        "prod": "feuille"
+    },
+ {
+        "id": "80",
+        "nom": "Tomato",
+        "ec_min": "2.0",
+        "ec_max": "4.0",
+        "ph_min": "6.0",
+        "ph_max": "6.5",
+        "prod": "fruit"
+    },
+ {
+        "id": "81",
+        "nom": "Anise",
+        "ec_min": "0.9",
+        "ec_max": "1.4",
+        "ph_min": "5.8",
+        "ph_max": "6.4",
+        "prod": "feuille"
+    },
+ {
+        "id": "82",
+        "nom": "Basil",
+        "ec_min": "1.0",
+        "ec_max": "1.6",
+        "ph_min": "5.5",
+        "ph_max": "6.0",
+        "prod": "feuille"
+    },
+ {
+        "id": "83",
+        "nom": "Catnip",
+        "ec_min": "1.0",
+        "ec_max": "1.6",
+        "ph_min": "5.5",
+        "ph_max": "6.5",
+        "prod": "feuille"
+    },
+ {
+        "id": "84",
+        "nom": "Chamomile",
+        "ec_min": "1.0",
+        "ec_max": "1.6",
+        "ph_min": "5.5",
+        "ph_max": "6.5",
+        "prod": "fleur"
+    },
+ {
+        "id": "85",
+        "nom": "Chervil",
+        "ec_min": "0.8",
+        "ec_max": "1.8",
+        "ph_min": "5.5",
+        "ph_max": "6.0",
+        "prod": "feuille"
+    },
+ {
+        "id": "86",
+        "nom": "Chickory",
+        "ec_min": "2.0",
+        "ec_max": "2.4",
+        "ph_min": "5.5",
+        "ph_max": "6.0",
+        "prod": "feuille"
+    },
+ {
+        "id": "87",
+        "nom": "Chives",
+        "ec_min": "1.8",
+        "ec_max": "2.4",
+        "ph_min": "6.0",
+        "ph_max": "6.5",
+        "prod": "feuille"
+    },
+ {
+        "id": "88",
+        "nom": "Cilantro",
+        "ec_min": "1.2",
+        "ec_max": "1.8",
+        "ph_min": "5.8",
+        "ph_max": "6.4",
+        "prod": "feuille"
+    },
+ {
+        "id": "89",
+        "nom": "Coriander",
+        "ec_min": "1.2",
+        "ec_max": "1.8",
+        "ph_min": "5.8",
+        "ph_max": "6.4",
+        "prod": "feuille"
+    },
+ {
+        "id": "90",
+        "nom": "Dill",
+        "ec_min": "1.0",
+        "ec_max": "1.6",
+        "ph_min": "5.5",
+        "ph_max": "6.4",
+        "prod": "feuille"
+    },
+ {
+        "id": "91",
+        "nom": "Fennel",
+        "ec_min": "1.0",
+        "ec_max": "1.4",
+        "ph_min": "6.4",
+        "ph_max": "6.8",
+        "prod": "feuille"
+    },
+ {
+        "id": "92",
+        "nom": "Lavender",
+        "ec_min": "1.0",
+        "ec_max": "1.4",
+        "ph_min": "6.4",
+        "ph_max": "6.8",
+        "prod": "feuille"
+    },
+ {
+        "id": "93",
+        "nom": "Lemon Balm",
+        "ec_min": "1.0",
+        "ec_max": "1.6",
+        "ph_min": "5.5",
+        "ph_max": "6.5",
+        "prod": "feuille"
+    },
+ {
+        "id": "94",
+        "nom": "Marjoram",
+        "ec_min": "1.6",
+        "ec_max": "2.0",
+        "ph_min": "6.0",
+        "ph_max": "6.0",
+        "prod": "feuille"
+    },
+ {
+        "id": "95",
+        "nom": "Mint",
+        "ec_min": "2.0",
+        "ec_max": "2.4",
+        "ph_min": "5.5",
+        "ph_max": "6.0",
+        "prod": "feuille"
+    },
+ {
+        "id": "96",
+        "nom": "Mustard Cress",
+        "ec_min": "1.2",
+        "ec_max": "2.4",
+        "ph_min": "6.0",
+        "ph_max": "6.5",
+        "prod": "feuille"
+    },
+ {
+        "id": "97",
+        "nom": "Oregano",
+        "ec_min": "1.8",
+        "ec_max": "2.3",
+        "ph_min": "6.0",
+        "ph_max": "7.0",
+        "prod": "feuille"
+    },
+ {
+        "id": "98",
+        "nom": "Parsley",
+        "ec_min": "0.8",
+        "ec_max": "1.8",
+        "ph_min": "5.5",
+        "ph_max": "6.0",
+        "prod": "feuille"
+    },
+ {
+        "id": "99",
+        "nom": "Rosemary",
+        "ec_min": "1.0",
+        "ec_max": "1.6",
+        "ph_min": "5.5",
+        "ph_max": "6.0",
+        "prod": "feuille"
+    },
+ {
+        "id": "100",
+        "nom": "Sage",
+        "ec_min": "1.0",
+        "ec_max": "1.6",
+        "ph_min": "5.5",
+        "ph_max": "6.5",
+        "prod": "feuille"
+    },
+ {
+        "id": "101",
+        "nom": "Tarragon",
+        "ec_min": "1.0",
+        "ec_max": "1.8",
+        "ph_min": "5.5",
+        "ph_max": "6.5",
+        "prod": "feuille"
+    },
+ {
+        "id": "102",
+        "nom": "Thyme",
+        "ec_min": "0.8",
+        "ec_max": "1.6",
+        "ph_min": "5.5",
+        "ph_max": "7.0",
+        "prod": "feuille"
+    },
+ {
+        "id": "103",
+        "nom": "Vietnamese Coriander",
+        "ec_min": "1.2",
+        "ec_max": "1.8",
+        "ph_min": "6.5",
+        "ph_max": "6.8",
+        "prod": "feuille"
+    },
+ {
+        "id": "104",
+        "nom": "Watercress",
+        "ec_min": "0.4",
+        "ec_max": "1.8",
+        "ph_min": "5.8",
+        "ph_max": "6.4",
+        "prod": "feuille"
+    },
+ {
+        "id": "105",
+        "nom": "Arugula",
+        "ec_min": "0.8",
+        "ec_max": "1.4",
+        "ph_min": "5.5",
+        "ph_max": "6.8",
+        "prod": "feuille"
+    },
+ {
+        "id": "106",
+        "nom": "Basil",
+        "ec_min": "1.0",
+        "ec_max": "1.6",
+        "ph_min": "5.5",
+        "ph_max": "6.5",
+        "prod": "feuille"
+    },
+ {
+        "id": "107",
+        "nom": "Bean",
+        "ec_min": "1.8",
+        "ec_max": "2.4",
+        "ph_min": "6.0",
+        "ph_max": "6.5",
+        "prod": "feve"
+    },
+ {
+        "id": "108",
+        "nom": "Bok_Choy",
+        "ec_min": "1.5",
+        "ec_max": "2.0",
+        "ph_min": "6.5",
+        "ph_max": "7.0",
+        "prod": "feuille"
+    },
+ {
+        "id": "109",
+        "nom": "Broccoli",
+        "ec_min": "2.8",
+        "ec_max": "3.5",
+        "ph_min": "6.0",
+        "ph_max": "6.5",
+        "prod": "tige"
+    },
+ {
+        "id": "110",
+        "nom": "Brussel Sprouts",
+        "ec_min": "2.5",
+        "ec_max": "3.0",
+        "ph_min": "6.5",
+        "ph_max": "7.5",
+        "prod": "feuille"
+    },
+ {
+        "id": "111",
+        "nom": "Bunching Onion",
+        "ec_min": "1.8",
+        "ec_max": "2.4",
+        "ph_min": "5.5",
+        "ph_max": "6.8",
+        "prod": "bulbe"
+    },
+ {
+        "id": "112",
+        "nom": "Cabbage",
+        "ec_min": "2.5",
+        "ec_max": "3.0",
+        "ph_min": "6.5",
+        "ph_max": "7.0",
+        "prod": "feuille"
+    },
+ {
+        "id": "113",
+        "nom": "Cauliflower",
+        "ec_min": "0.5",
+        "ec_max": "2.0",
+        "ph_min": "6.0",
+        "ph_max": "7.0",
+        "prod": "tige"
+    },
+ {
+        "id": "114",
+        "nom": "Celery",
+        "ec_min": "1.8",
+        "ec_max": "2.4",
+        "ph_min": "6.3",
+        "ph_max": "6.7",
+        "prod": "tige"
+    },
+ {
+        "id": "115",
+        "nom": "Chamomile",
+        "ec_min": "0.8",
+        "ec_max": "1.4",
+        "ph_min": "5.5",
+        "ph_max": "6.5",
+        "prod": "fleur"
+    },
+ {
+        "id": "116",
+        "nom": "Chives",
+        "ec_min": "1.8",
+        "ec_max": "2.4",
+        "ph_min": "6.0",
+        "ph_max": "6.5",
+        "prod": "feuille"
+    },
+ {
+        "id": "117",
+        "nom": "Cilantro",
+        "ec_min": "1.3",
+        "ec_max": "1.8",
+        "ph_min": "6.5",
+        "ph_max": "6.7",
+        "prod": "feuille"
+    },
+ {
+        "id": "118",
+        "nom": "Collard Greens",
+        "ec_min": "1.6",
+        "ec_max": "2.5",
+        "ph_min": "5.5",
+        "ph_max": "6.8",
+        "prod": "feuille"
+    },
+ {
+        "id": "119",
+        "nom": "Cucumber",
+        "ec_min": "1.8",
+        "ec_max": "3.0",
+        "ph_min": "5.8",
+        "ph_max": "6.0",
+        "prod": "fruit"
+    },
+ {
+        "id": "120",
+        "nom": "Daisy",
+        "ec_min": "1.2",
+        "ec_max": "1.8",
+        "ph_min": "5.5",
+        "ph_max": "6.5",
+        "prod": "fleur"
+    },
+ {
+        "id": "121",
+        "nom": "Dandelion",
+        "ec_min": "1.0",
+        "ec_max": "1.8",
+        "ph_min": "5.8",
+        "ph_max": "6.5",
+        "prod": "fleur"
+    },
+ {
+        "id": "122",
+        "nom": "Dill",
+        "ec_min": "1.0",
+        "ec_max": "1.6",
+        "ph_min": "5.5",
+        "ph_max": "6.4",
+        "prod": "feuille"
+    },
+ {
+        "id": "123",
+        "nom": "Eggplant",
+        "ec_min": "2.5",
+        "ec_max": "3.5",
+        "ph_min": "5.5",
+        "ph_max": "6.5",
+        "prod": "fruit"
+    },
+ {
+        "id": "124",
+        "nom": "Kale",
+        "ec_min": "1.6",
+        "ec_max": "2.5",
+        "ph_min": "5.5",
+        "ph_max": "6.8",
+        "prod": "feuille"
+    },
+ {
+        "id": "125",
+        "nom": "Lavender",
+        "ec_min": "1.0",
+        "ec_max": "1.4",
+        "ph_min": "6.4",
+        "ph_max": "6.8",
+        "prod": "fleur"
+    },
+ {
+        "id": "126",
+        "nom": "Lemon Balm",
+        "ec_min": "1.0",
+        "ec_max": "1.6",
+        "ph_min": "5.5",
+        "ph_max": "6.5",
+        "prod": "feuille"
+    },
+ {
+        "id": "127",
+        "nom": "Lettuce",
+        "ec_min": "0.8",
+        "ec_max": "1.2",
+        "ph_min": "5.5",
+        "ph_max": "6.5",
+        "prod": "feuille"
+    },
+ {
+        "id": "128",
+        "nom": "Marigold",
+        "ec_min": "1.0",
+        "ec_max": "3.6",
+        "ph_min": "5.8",
+        "ph_max": "6.5",
+        "prod": "fleur"
+    },
+ {
+        "id": "129",
+        "nom": "Marjoram",
+        "ec_min": "1.6",
+        "ec_max": "2.3",
+        "ph_min": "6.0",
+        "ph_max": "7.0",
+        "prod": "feuille"
+    },
+ {
+        "id": "130",
+        "nom": "Melon",
+        "ec_min": "2.0",
+        "ec_max": "2.5",
+        "ph_min": "5.5",
+        "ph_max": "6.0",
+        "prod": "fruit"
+    },
+ {
+        "id": "131",
+        "nom": "Mint",
+        "ec_min": "2.0",
+        "ec_max": "2.4",
+        "ph_min": "5.5",
+        "ph_max": "6.0",
+        "prod": "feuille"
+    },
+ {
+        "id": "132",
+        "nom": "Mustard Greens",
+        "ec_min": "1.2",
+        "ec_max": "2.4",
+        "ph_min": "5.5",
+        "ph_max": "6.8",
+        "prod": "feuille"
+    },
+ {
+        "id": "133",
+        "nom": "Nasturtium",
+        "ec_min": "0.8",
+        "ec_max": "1.6",
+        "ph_min": "6.0",
+        "ph_max": "7.0",
+        "prod": "fleur"
+    },
+ {
+        "id": "134",
+        "nom": "Oregano",
+        "ec_min": "1.8",
+        "ec_max": "2.3",
+        "ph_min": "6.0",
+        "ph_max": "6.8",
+        "prod": "feuille"
+    },
+ {
+        "id": "135",
+        "nom": "Parsley",
+        "ec_min": "0.8",
+        "ec_max": "1.8",
+        "ph_min": "5.5",
+        "ph_max": "6.0",
+        "prod": "feuille"
+    },
+ {
+        "id": "136",
+        "nom": "Pea",
+        "ec_min": "0.8",
+        "ec_max": "1.8",
+        "ph_min": "6.0",
+        "ph_max": "7.0",
+        "prod": "feve"
+    },
+ {
+        "id": "137",
+        "nom": "Peppers_Bell",
+        "ec_min": "2.0",
+        "ec_max": "2.5",
+        "ph_min": "6.0",
+        "ph_max": "6.5",
+        "prod": "fruit"
+    },
+ {
+        "id": "138",
+        "nom": "Peppers_Hot",
+        "ec_min": "2.0",
+        "ec_max": "3.5",
+        "ph_min": "6.0",
+        "ph_max": "6.5",
+        "prod": "fruit"
+    },
+ {
+        "id": "139",
+        "nom": "Pumpkin",
+        "ec_min": "1.8",
+        "ec_max": "2.4",
+        "ph_min": "5.5",
+        "ph_max": "7.5",
+        "prod": "fruit"
+    },
+ {
+        "id": "140",
+        "nom": "Radish",
+        "ec_min": "1.6",
+        "ec_max": "2.3",
+        "ph_min": "6.0",
+        "ph_max": "7.0",
+        "prod": "racine"
+    },
+ {
+        "id": "141",
+        "nom": "Rosemary",
+        "ec_min": "1.0",
+        "ec_max": "1.6",
+        "ph_min": "5.5",
+        "ph_max": "6.0",
+        "prod": "feuille"
+    },
+ {
+        "id": "142",
+        "nom": "Sage",
+        "ec_min": "1.0",
+        "ec_max": "1.6",
+        "ph_min": "5.5",
+        "ph_max": "6.5",
+        "prod": "feuille"
+    },
+ {
+        "id": "143",
+        "nom": "Savory",
+        "ec_min": "1.8",
+        "ec_max": "2.4",
+        "ph_min": "6.5",
+        "ph_max": "7.0",
+        "prod": "feuille"
+    },
+ {
+        "id": "144",
+        "nom": "Spinach",
+        "ec_min": "1.8",
+        "ec_max": "2.3",
+        "ph_min": "5.5",
+        "ph_max": "6.6",
+        "prod": "feuille"
+    },
+ {
+        "id": "145",
+        "nom": "Squash",
+        "ec_min": "1.8",
+        "ec_max": "2.4",
+        "ph_min": "5.0",
+        "ph_max": "6.0",
+        "prod": "fruit"
+    },
+ {
+        "id": "146",
+        "nom": "Sunflower",
+        "ec_min": "1.2",
+        "ec_max": "1.8",
+        "ph_min": "5.5",
+        "ph_max": "6.5",
+        "prod": "fleur"
+    },
+ {
+        "id": "147",
+        "nom": "Stevia",
+        "ec_min": "0.8",
+        "ec_max": "1.6",
+        "ph_min": "6.0",
+        "ph_max": "6.5",
+        "prod": "feuille"
+    },
+ {
+        "id": "148",
+        "nom": "Strawberries",
+        "ec_min": "1.0",
+        "ec_max": "1.4",
+        "ph_min": "5.0",
+        "ph_max": "5.5",
+        "prod": "fruit"
+    },
+ {
+        "id": "149",
+        "nom": "Sunflower",
+        "ec_min": "1.2",
+        "ec_max": "1.8",
+        "ph_min": "5.5",
+        "ph_max": "6.8",
+        "prod": "fleur"
+    },
+ {
+        "id": "150",
+        "nom": "Swiss Chard",
+        "ec_min": "1.8",
+        "ec_max": "2.3",
+        "ph_min": "6.0",
+        "ph_max": "6.5",
+        "prod": "feuille"
+    },
+ {
+        "id": "151",
+        "nom": "Thyme",
+        "ec_min": "0.8",
+        "ec_max": "1.6",
+        "ph_min": "5.5",
+        "ph_max": "7.0",
+        "prod": "feuille"
+    },
+ {
+        "id": "152",
+        "nom": "Tomato",
+        "ec_min": "2.0",
+        "ec_max": "5.0",
+        "ph_min": "5.5",
+        "ph_max": "6.5",
+        "prod": "fruit"
+    },
+ {
+        "id": "153",
+        "nom": "Viola",
+        "ec_min": "1.3",
+        "ec_max": "1.8",
+        "ph_min": "5.5",
+        "ph_max": "6.2",
+        "prod": "fleur"
+    },
+ {
+        "id": "154",
+        "nom": "Watercress",
+        "ec_min": "0.4",
+        "ec_max": "1.8",
+        "ph_min": "6.5",
+        "ph_max": "7.0",
+        "prod": "feuille"
+    },
+ {
+        "id": "155",
+        "nom": "Watermelon",
+        "ec_min": "1.5",
+        "ec_max": "2.4",
+        "ph_min": "5.8",
+        "ph_max": "5.8",
+        "prod": "fruit"
+    },
+ {
+        "id": "156",
+        "nom": "Wheatgrass",
+        "ec_min": "0.8",
+        "ec_max": "1.2",
+        "ph_min": "6.0",
+        "ph_max": "7.0",
+        "prod": "feuille"
+    },
+ {
+        "id": "157",
+        "nom": "Zucchini",
+        "ec_min": "1.8",
+        "ec_max": "2.4",
+        "ph_min": "5.0",
+        "ph_max": "6.0",
+        "prod": "fruit"
+    },
+ {
+        "id": "158",
+        "nom": "Arugula",
+        "ec_min": "0.8",
+        "ec_max": "1.4",
+        "ph_min": "5.5",
+        "ph_max": "6.8",
+        "prod": "feuille"
+    },
+ {
+        "id": "159",
+        "nom": "Basil",
+        "ec_min": "1.0",
+        "ec_max": "1.6",
+        "ph_min": "5.5",
+        "ph_max": "6.5",
+        "prod": "feuille"
+    },
+ {
+        "id": "160",
+        "nom": "Bean",
+        "ec_min": "1.8",
+        "ec_max": "2.4",
+        "ph_min": "6.0",
+        "ph_max": "6.5",
+        "prod": "feve"
+    },
+ {
+        "id": "161",
+        "nom": "Bok_Choy",
+        "ec_min": "1.5",
+        "ec_max": "2.0",
+        "ph_min": "6.5",
+        "ph_max": "7.0",
+        "prod": "feuille"
+    },
+ {
+        "id": "162",
+        "nom": "Broccoli",
+        "ec_min": "2.8",
+        "ec_max": "3.5",
+        "ph_min": "6.0",
+        "ph_max": "6.5",
+        "prod": "tige"
+    },
+ {
+        "id": "163",
+        "nom": "Brussel Sprouts",
+        "ec_min": "2.5",
+        "ec_max": "3.0",
+        "ph_min": "6.5",
+        "ph_max": "7.5",
+        "prod": "feuille"
+    },
+ {
+        "id": "164",
+        "nom": "Bunching Onion",
+        "ec_min": "1.8",
+        "ec_max": "2.4",
+        "ph_min": "5.5",
+        "ph_max": "6.8",
+        "prod": "bulbe"
+    },
+ {
+        "id": "165",
+        "nom": "Cabbage",
+        "ec_min": "2.5",
+        "ec_max": "3.0",
+        "ph_min": "6.5",
+        "ph_max": "7.0",
+        "prod": "feuille"
+    },
+ {
+        "id": "166",
+        "nom": "Cauliflower",
+        "ec_min": "0.5",
+        "ec_max": "2.0",
+        "ph_min": "6.0",
+        "ph_max": "7.0",
+        "prod": "tige"
+    },
+ {
+        "id": "167",
+        "nom": "Celery",
+        "ec_min": "1.8",
+        "ec_max": "2.4",
+        "ph_min": "6.3",
+        "ph_max": "6.7",
+        "prod": "tige"
+    },
+ {
+        "id": "168",
+        "nom": "Chamomile",
+        "ec_min": "0.8",
+        "ec_max": "1.4",
+        "ph_min": "5.5",
+        "ph_max": "6.5",
+        "prod": "fleur"
+    },
+ {
+        "id": "169",
+        "nom": "Chives",
+        "ec_min": "1.8",
+        "ec_max": "2.4",
+        "ph_min": "6.0",
+        "ph_max": "6.5",
+        "prod": "feuille"
+    },
+ {
+        "id": "170",
+        "nom": "Cilantro",
+        "ec_min": "1.3",
+        "ec_max": "1.8",
+        "ph_min": "6.5",
+        "ph_max": "6.7",
+        "prod": "feuille"
+    },
+ {
+        "id": "171",
+        "nom": "Collard Greens",
+        "ec_min": "1.6",
+        "ec_max": "2.5",
+        "ph_min": "5.5",
+        "ph_max": "6.8",
+        "prod": "feuille"
+    },
+ {
+        "id": "172",
+        "nom": "Cucumber",
+        "ec_min": "1.8",
+        "ec_max": "3.0",
+        "ph_min": "5.8",
+        "ph_max": "6.0",
+        "prod": "fruit"
+    },
+ {
+        "id": "173",
+        "nom": "Daisy",
+        "ec_min": "1.2",
+        "ec_max": "1.8",
+        "ph_min": "5.5",
+        "ph_max": "6.5",
+        "prod": "fleur"
+    },
+ {
+        "id": "174",
+        "nom": "Dandelion",
+        "ec_min": "1.0",
+        "ec_max": "1.8",
+        "ph_min": "5.8",
+        "ph_max": "6.5",
+        "prod": "fleur"
+    },
+ {
+        "id": "175",
+        "nom": "Dill",
+        "ec_min": "1.0",
+        "ec_max": "1.6",
+        "ph_min": "5.5",
+        "ph_max": "6.4",
+        "prod": "feuille"
+    },
+ {
+        "id": "176",
+        "nom": "Eggplant",
+        "ec_min": "2.5",
+        "ec_max": "3.5",
+        "ph_min": "5.5",
+        "ph_max": "6.5",
+        "prod": "fruit"
+    },
+ {
+        "id": "177",
+        "nom": "Kale",
+        "ec_min": "1.6",
+        "ec_max": "2.5",
+        "ph_min": "5.5",
+        "ph_max": "6.8",
+        "prod": "feuille"
+    },
+ {
+        "id": "178",
+        "nom": "Lavender",
+        "ec_min": "1.0",
+        "ec_max": "1.4",
+        "ph_min": "6.4",
+        "ph_max": "6.8",
+        "prod": "fleur"
+    },
+ {
+        "id": "179",
+        "nom": "Lemon Balm",
+        "ec_min": "1.0",
+        "ec_max": "1.6",
+        "ph_min": "5.5",
+        "ph_max": "6.5",
+        "prod": "feuille"
+    },
+ {
+        "id": "180",
+        "nom": "Lettuce",
+        "ec_min": "0.8",
+        "ec_max": "1.2",
+        "ph_min": "5.5",
+        "ph_max": "6.5",
+        "prod": "feuille"
+    },
+ {
+        "id": "181",
+        "nom": "Marigold",
+        "ec_min": "1.0",
+        "ec_max": "3.6",
+        "ph_min": "5.8",
+        "ph_max": "6.5",
+        "prod": "fleur"
+    },
+ {
+        "id": "182",
+        "nom": "Marjoram",
+        "ec_min": "1.6",
+        "ec_max": "2.3",
+        "ph_min": "6.0",
+        "ph_max": "7.0",
+        "prod": "feuille"
+    },
+ {
+        "id": "183",
+        "nom": "Melon",
+        "ec_min": "2.0",
+        "ec_max": "2.5",
+        "ph_min": "5.5",
+        "ph_max": "6.0",
+        "prod": "fruit"
+    },
+ {
+        "id": "184",
+        "nom": "Mint",
+        "ec_min": "2.0",
+        "ec_max": "2.4",
+        "ph_min": "5.5",
+        "ph_max": "6.0",
+        "prod": "feuille"
+    },
+ {
+        "id": "185",
+        "nom": "Mustard Greens",
+        "ec_min": "1.2",
+        "ec_max": "2.4",
+        "ph_min": "5.5",
+        "ph_max": "6.8",
+        "prod": "feuille"
+    },
+ {
+        "id": "186",
+        "nom": "Nasturtium",
+        "ec_min": "0.8",
+        "ec_max": "1.6",
+        "ph_min": "6.0",
+        "ph_max": "7.0",
+        "prod": "fleur"
+    },
+ {
+        "id": "187",
+        "nom": "Oregano",
+        "ec_min": "1.8",
+        "ec_max": "2.3",
+        "ph_min": "6.0",
+        "ph_max": "6.8",
+        "prod": "feuille"
+    },
+ {
+        "id": "188",
+        "nom": "Parsley",
+        "ec_min": "0.8",
+        "ec_max": "1.8",
+        "ph_min": "5.5",
+        "ph_max": "6.0",
+        "prod": "feuille"
+    },
+ {
+        "id": "189",
+        "nom": "Pea",
+        "ec_min": "0.8",
+        "ec_max": "1.8",
+        "ph_min": "6.0",
+        "ph_max": "7.0",
+        "prod": "feve"
+    },
+ {
+        "id": "190",
+        "nom": "Peppers_Bell",
+        "ec_min": "2.0",
+        "ec_max": "2.5",
+        "ph_min": "6.0",
+        "ph_max": "6.5",
+        "prod": "fruit"
+    },
+ {
+        "id": "191",
+        "nom": "Peppers_Hot",
+        "ec_min": "2.0",
+        "ec_max": "3.5",
+        "ph_min": "6.0",
+        "ph_max": "6.5",
+        "prod": "fruit"
+    },
+ {
+        "id": "192",
+        "nom": "Pumpkin",
+        "ec_min": "1.8",
+        "ec_max": "2.4",
+        "ph_min": "5.5",
+        "ph_max": "7.5",
+        "prod": "fruit"
+    },
+ {
+        "id": "193",
+        "nom": "Radish",
+        "ec_min": "1.6",
+        "ec_max": "2.3",
+        "ph_min": "6.0",
+        "ph_max": "7.0",
+        "prod": "racine"
+    },
+ {
+        "id": "194",
+        "nom": "Rosemary",
+        "ec_min": "1.0",
+        "ec_max": "1.6",
+        "ph_min": "5.5",
+        "ph_max": "6.0",
+        "prod": "feuille"
+    },
+ {
+        "id": "195",
+        "nom": "Sage",
+        "ec_min": "1.0",
+        "ec_max": "1.6",
+        "ph_min": "5.5",
+        "ph_max": "6.5",
+        "prod": "feuille"
+    },
+ {
+        "id": "196",
+        "nom": "Savory",
+        "ec_min": "1.8",
+        "ec_max": "2.4",
+        "ph_min": "6.5",
+        "ph_max": "7.0",
+        "prod": "feuille"
+    },
+ {
+        "id": "197",
+        "nom": "Spinach",
+        "ec_min": "1.8",
+        "ec_max": "2.3",
+        "ph_min": "5.5",
+        "ph_max": "6.6",
+        "prod": "feuille"
+    },
+ {
+        "id": "198",
+        "nom": "Squash",
+        "ec_min": "1.8",
+        "ec_max": "2.4",
+        "ph_min": "5.0",
+        "ph_max": "6.0",
+        "prod": "fruit"
+    },
+ {
+        "id": "199",
+        "nom": "Sunflower",
+        "ec_min": "1.2",
+        "ec_max": "1.8",
+        "ph_min": "5.5",
+        "ph_max": "6.5",
+        "prod": "fleur"
+    },
+ {
+        "id": "200",
+        "nom": "Stevia",
+        "ec_min": "0.8",
+        "ec_max": "1.6",
+        "ph_min": "6.0",
+        "ph_max": "6.5",
+        "prod": "feuille"
+    },
+ {
+        "id": "201",
+        "nom": "Strawberries",
+        "ec_min": "1.0",
+        "ec_max": "1.4",
+        "ph_min": "5.0",
+        "ph_max": "5.5",
+        "prod": "fruit"
+    },
+ {
+        "id": "202",
+        "nom": "Sunflower",
+        "ec_min": "1.2",
+        "ec_max": "1.8",
+        "ph_min": "5.5",
+        "ph_max": "6.8",
+        "prod": "fleur"
+    },
+ {
+        "id": "203",
+        "nom": "Swiss Chard",
+        "ec_min": "1.8",
+        "ec_max": "2.3",
+        "ph_min": "6.0",
+        "ph_max": "6.5",
+        "prod": "feuille"
+    },
+ {
+        "id": "204",
+        "nom": "Thyme",
+        "ec_min": "0.8",
+        "ec_max": "1.6",
+        "ph_min": "5.5",
+        "ph_max": "7.0",
+        "prod": "feuille"
+    },
+ {
+        "id": "205",
+        "nom": "Tomato",
+        "ec_min": "2.0",
+        "ec_max": "5.0",
+        "ph_min": "5.5",
+        "ph_max": "6.5",
+        "prod": "fruit"
+    },
+ {
+        "id": "206",
+        "nom": "Viola",
+        "ec_min": "1.3",
+        "ec_max": "1.8",
+        "ph_min": "5.5",
+        "ph_max": "6.2",
+        "prod": "fleur"
+    },
+ {
+        "id": "207",
+        "nom": "Watercress",
+        "ec_min": "0.4",
+        "ec_max": "1.8",
+        "ph_min": "6.5",
+        "ph_max": "7.0",
+        "prod": "feuille"
+    },
+ {
+        "id": "208",
+        "nom": "Watermelon",
+        "ec_min": "1.5",
+        "ec_max": "2.4",
+        "ph_min": "5.8",
+        "ph_max": "5.8",
+        "prod": "fruit"
+    },
+ {
+        "id": "209",
+        "nom": "Wheatgrass",
+        "ec_min": "0.8",
+        "ec_max": "1.2",
+        "ph_min": "6.0",
+        "ph_max": "7.0",
+        "prod": "feuille"
+    },
+ {
+        "id": "210",
+        "nom": "Zucchini",
+        "ec_min": "1.8",
+        "ec_max": "2.4",
+        "ph_min": "5.0",
+        "ph_max": "6.0",
+        "prod": "fruit"
+    }
+]
+  }
