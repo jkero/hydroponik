@@ -1,7 +1,7 @@
 nom,ec_min,ec_max,ph_min,ph_max,prod
-Laitue,1.0,1.3,5.5,6.5,feuille
+Laitue,1.2,1.8,6.0,7.0,feuille
 Persil,0.8,1.8,5.5,6.0,feuille
-Basilic,1.0,1.6,5.5,6.8,feuille
+Basilic,1.0,1.6,5.5,6.5,feuille
 Coriandre,1.2,1.8,5.8,6.4,feuille
 Kale,1.6,2.5,5.5,6.8,feuille
 BetteCarde,1.8,2.3,6.2,7.0,feuille
