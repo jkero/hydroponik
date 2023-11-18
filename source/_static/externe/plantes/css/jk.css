@@ -1,0 +1,12 @@
+table{
+border: solid 1px;
+    th{
+    border: solid 1px;
+    padding:3px;
+    }
+    td{
+    border: solid 1px;
+    padding:3px;
+    background-color:#ffffff;
+    }
+}
