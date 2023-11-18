@@ -9,6 +9,10 @@ Notes de notre projet hydroponique
    :description: Percipere projet hydroponique
    :keywords: hydroponique québec percipere.ca Ph EC projet.
 
+Sommaire de cette doc:
+++++++++++++++++++++++
+On trouve ici quelques notes plus ou moins techniques sur une première expérience de culture hydroponique.
+
 .. toctree::
    :maxdepth: 2
 
