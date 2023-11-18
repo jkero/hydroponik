@@ -10,7 +10,7 @@ Calculé en milli-siemens/cm. Électro-conductivité. Il s'agit de mesurer la qu
 
 .. image:: ./images/EC_lecteur.jpg
   :width: 100
-  :alt: Alternative text
+  :alt: image lecteur EC
 
 PH
 ++
@@ -19,7 +19,7 @@ PH
 
 .. image:: ./images/ph.png
   :width: 100
-  :alt: jk
+  :alt: image lecteur ph
 
 Source: wikipedia
 
@@ -29,7 +29,7 @@ Des instruments plus précis sont en vente, mais ça peut beaucoup varier en qua
 
 .. image:: ./images/lecteur_ph.png
   :width: 30
-  :alt: jk
+  :alt: image lecteur ph
 
 Le modèle PH-80 arrive avec l'instruction de mouiller les senseurs de l'instrument dans une *solution tampon* (*storage solution*) 15 minutes avant l'utilisation. L'instrument vient aussi avec une solution d'étalonnage à Ph 7.0. L'instrument s'étalonne tout seul à 7.0 en mode *calibration*. Ça va prendre un peu de KCl pour se fabriquer cette solution [#f1]_.
 
