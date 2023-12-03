@@ -21,6 +21,6 @@ On trouve ici quelques notes plus ou moins techniques sur une première expérie
    plan
    notes
    saison2
-
+   semis
 
 * :ref:`search`
