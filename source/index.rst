@@ -23,5 +23,3 @@ On trouve ici quelques notes plus ou moins techniques sur une première expérie
    saison2
 
 Derniers changements : |today|
-
-* :ref:`search`
