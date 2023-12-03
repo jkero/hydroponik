@@ -23,4 +23,6 @@ Mes recherches démontrent qu'il y a un écart dans les valeurs de EC et Ph et q
 
 On peut voir les écarts et la moyenne qu'il faudra faire en termes de valeurs de EC et Ph. On verra.
 
+Le plan provisoire pour les semis :doc:`recolte_s2`
+
 Derniers changements : |today|
