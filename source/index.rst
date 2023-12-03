@@ -14,13 +14,14 @@ Sommaire de cette doc:
 On trouve ici quelques notes plus ou moins techniques sur une première expérience de culture hydroponique.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
 
    mesures
    accessoires
    plan
    notes
    saison2
-   semis
+
+Derniers changements : |today|
 
 * :ref:`search`

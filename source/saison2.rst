@@ -23,6 +23,45 @@ Mes recherches démontrent qu'il y a un écart dans les valeurs de EC et Ph et q
 
 On peut voir les écarts et la moyenne qu'il faudra faire en termes de valeurs de EC et Ph. On verra.
 
-Le plan provisoire pour les semis :doc:`recolte_s2`
+Semis
++++++
+
+.. figure:: ./images/semis1.png
+  :width: 200
+  :alt: semis coriandre
+
+  Semis de coriandre (3 décembre 2023)
+
+.. figure:: ./images/semis2.png
+  :width: 200
+  :alt: semis de laitue "red bowl"
+
+  Semis de laitue "red bowl" (3 décembre 2023)
+
+
+Plan
+++++
+.. uml::
+
+    @startuml
+        title Saison 2
+        skinparam cardBackgroundColor lightgreen
+        interface H2O
+
+        card laitue
+        card kale
+        card coriandre
+        card basilic
+        card bette_à_carde
+        card chicorée
+        card persil
+        H2O -u[#00aaff]-> coriandre
+        H2O -u[#00aaff]->laitue
+        H2O -u[#00aaff]-> basilic
+        H2O -d[#00aaff]-> bette_à_carde
+        H2O -d[#00aaff]-> chicorée
+        H2O -d[#00aaff]-> persil
+        H2O -u[#00aaff]-> kale
+       @enduml
 
 Derniers changements : |today|

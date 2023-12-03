@@ -23,3 +23,4 @@ Plan de culture
         H2O -u[#00aaff]-> kale
        @enduml
 
+Le plan provisoire pour les semis :doc:`semis`
