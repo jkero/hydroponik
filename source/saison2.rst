@@ -26,13 +26,13 @@ On peut voir les écarts et la moyenne qu'il faudra faire en termes de valeurs d
 Semis
 +++++
 
-.. figure:: ./images/semis1.png
+.. figure:: ./images/semis1.jpg
   :width: 200
   :alt: semis coriandre
 
   Semis de coriandre (3 décembre 2023)
 
-.. figure:: ./images/semis2.png
+.. figure:: ./images/semis2.jpg
   :width: 200
   :alt: semis de laitue "red bowl"
 
