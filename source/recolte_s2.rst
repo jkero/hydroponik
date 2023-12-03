@@ -47,7 +47,7 @@ Plan de culture
 
 @startuml
 skinparam backgroundColor #ddFAF1
- ===B===  --> "laitue"
+===B===  --> "laitue"
 --> ===Ba===
 ===B=== --> "persil"
 --> ===Ba===
