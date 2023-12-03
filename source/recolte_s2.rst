@@ -23,9 +23,3 @@ Plan de culture
         H2O -u[#00aaff]-> kale
        @enduml
 
--------
-Rappels
--------
-    .. todolist::
-
-...
