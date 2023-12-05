@@ -3,7 +3,7 @@ Plan de culture
 .. uml::
 
     @startuml
-        title Saison 2
+        title Saison 2 plan provisoire
         skinparam cardBackgroundColor lightgreen
         interface H2O
 
@@ -22,5 +22,3 @@ Plan de culture
         H2O -d[#00aaff]-> persil
         H2O -u[#00aaff]-> kale
        @enduml
-
-Le plan provisoire pour les semis :doc:`semis`

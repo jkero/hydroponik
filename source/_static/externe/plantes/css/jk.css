@@ -1,12 +1,26 @@
 table{
-border: solid 1px;
+    margin-right:auto;
+    margin-left:auto;
+    text-align:center;
+    background-color:#77ff99;
+    border: solid 1px;
     th{
     border: solid 1px;
     padding:3px;
     }
     td{
-    border: solid 1px;
+    border: solid 1px #000000;;
     padding:3px;
     background-color:#ffffff;
     }
+}
+.b_vert{
+ border: solid 1px;
+ background-color:#77ff33;
+ margin:3px;
+}
+#main{
+   margin-right:auto;
+   margin-left:auto;
+   text-align:center;
 }
