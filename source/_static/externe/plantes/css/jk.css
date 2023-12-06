@@ -20,12 +20,14 @@
         th{
         border: solid 1px;
         padding:5px;
+        text-transform:capitalize;
         }
 
         td{
         border: solid 1px #000000;;
         padding:4px;
         background-color:#ffffff;
+        text-transform:capitalize;
         }
     }
 }
