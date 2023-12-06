@@ -58,7 +58,7 @@ html_theme_options = {
     'titles_only': False,}
 html_show_sourcelink = False
 html_static_path = ['_static','_static/externe','_static/externe/plantes','_static/externe/plantes/css','_static/externe/plantes/js']
-html_css_files = ['_static/externe/plantes/css/jk.css']
+html_css_files = ['jk.css']
 
 today_fmt = '%d %b %Y'
 

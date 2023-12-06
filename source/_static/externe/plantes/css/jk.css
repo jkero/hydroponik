@@ -1,9 +1,9 @@
-table{
+#main > table{
     margin-right:auto;
     margin-left:auto;
     text-align:center;
     background-color:#77ff99;
-    border: solid 1px;
+    border: solid 1px #669955;
     th{
     border: solid 1px;
     padding:3px;
