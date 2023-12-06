@@ -1,4 +1,8 @@
 const madiv = document.querySelector("#main");
+const span = document.createElement("span")
+span.innerHTML= `<button class="b_vert" onclick="history.back()">Retour</button>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<button class="b_vert" onclick="location.href='#lebottom';">Bas de page</button><a name="letop"/>`
+const span2 = document.createElement("span")
+span2.innerHTML= `<a name="lebottom"/><button class="b_vert" onclick="location.href='#letop';">Haut de page</button>`
 const myRequest = new Request("_static/externe/plantes/les_plantes_9.json");
 const t_header = document.createElement("thead")
 fetch(myRequest)
@@ -27,7 +31,11 @@ fetch(myRequest)
         `${plante.prod}`;
       table.appendChild(rangee);
     }
+    madiv.append(span);
     madiv.append(table);
+    madiv.append(span2);
 
   })
   .catch(console.error);
+
+//madiv.appendChild(document.createElement("form")).textContent=`<button class="b_vert" onclick="history.back()">Retour</button>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<button class="b_vert" onclick="location.href='#lebottom';">Bas de page</button><a name="letop"/><table class="plantes">${names}</table><a name="lebottom"/><button class="b_vert" onclick="location.href='#letop';">Haut de page</button>`;
