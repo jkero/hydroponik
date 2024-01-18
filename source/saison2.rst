@@ -36,16 +36,15 @@ Semis saison 2
 
   Semis de coriandre (3 décembre 2023)
 
-|
-|
-|
-|
-|
-|
-En gros c'est le :doc:`recolte_s2`
+**Soucis** : Pour une raison pas claire, les semis semblent bloqués à une certaine hauteur et on ne voit pas trop de développement racinaire, malgré un éclairage plus vers le bleu. Il y a même un développement de moisi ou je ne sais quel champignon en cours. Nos cubes sont de type *Oasis* et on utilise aussi un fond chauffant. Alors ? Trop chaud et trop humide ? À voir ...
 
-|
-|
-|
+.. figure:: ./images/moisi.jpg
+  :width: 200
+  :alt: semis et champignon ...
+
+  Semis et moisissure (15 décembre 2023)
+
+
+.. include:: recolte_s2.rst
 
 Derniers changements : |today|
