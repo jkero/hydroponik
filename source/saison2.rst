@@ -44,7 +44,13 @@ Semis saison 2
 
   Semis et moisissure (15 décembre 2023)
 
+**On reprend.** Bon, les fêtes, etc. pas trop de disponibilité, bref je recommence le projet avec une référence qui vient d'un site qui utilise les cubes Oasis et qui fait des recommandations intéressantes (`https://www.emeshfarms.com/grow-seedling-using-oasis-cube/ <https://www.emeshfarms.com/grow-seedling-using-oasis-cube/>`_ pour ne pas le nommer). Donc, 10 jours après. mes nouveaux semis ressemblent à ceci:
 
-.. include:: recolte_s2.rst
+.. figure:: ./images/2e_semis.jpg
+  :width: 500
+  :alt: semis take 2 ...
+
+  Semis 2e essai (18 janvier 2024)
+
 
 Derniers changements : |today|
