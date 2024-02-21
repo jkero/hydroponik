@@ -52,5 +52,12 @@ Semis saison 2
 
   Semis 2e essai (18 janvier 2024)
 
+**Ça pousse, pas trop vite....**  Après ce nouveau départ, on a finalement placé les semis dans les boules d'argile. Vu le gene de gicleur (dripper), j'ai continué à donner le biberon aux petites pousses. Aussi elles ont été mélangées et le plan n'est plus le même. Il y a quelques paires douteuses, coriandre et laitue...
+
+.. figure:: ./images/4phases.png
+  :width: 500
+  :alt: dans les pots ...
+
+  Jeunots en place dans les pots (26 janvier au 21 février 2024)
 
 Derniers changements : |today|
