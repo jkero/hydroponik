@@ -21,6 +21,5 @@ Notes de notre projet hydroponique
    notes
    saison2
    semis
-   recolte_s2
 
 Derniers changements : |today|
