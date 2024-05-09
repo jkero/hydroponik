@@ -60,4 +60,16 @@ Semis saison 2
 
   Jeunots en place dans les pots (26 janvier au 21 février 2024)
 
+**Finalement la jungle**  L'hiver s'est passé avec une production intéressante de coriandre et de persil. C'est surtout le basilic qui est sorti en fou et gagné la course à la lumière. En second : le kale, pas assez à notre goût. La laitue a duré quelques semaines, mais j'ai l'impression que la compétition et les réglages (ph: 5.9, e.c.: 1.7 en moyenne) ne la favorisaient pas. Aussi la température ambiante (18° C) était un défi ; j'ai récupéré la chaleur du calorifère et fait une "serre souple" pour gagner 2-3 degrés.
+
+Question paramètres de plantation, il  y aurait des corrections à apporter, le basilic et très fort avec des feuilles énormes, pas tellement touffu, si je compare aux petits plants faluettes en vente dans les épiceries... Les valeurs de ph et ec ne correspondaient pas à un développement optimal pour toutes les espèces de plantes, bref le mélange des semis est à réévaluer.
+
+On a finalement "loué" les espaces précédemment occupés par la laitue à des racines (en terre) de gingembre. Avec un peu de substance nutritive, ça marche fort, les plants sont déjà rendus dans le plafond !
+
+.. figure:: ./images/hydropo_mai_2024.jpg
+  :width: 500
+  :alt: jungle de basilic ...
+
+  La jungle de basilic dans la serre souple (9 mai 2024)
+
 Derniers changements : |today|
