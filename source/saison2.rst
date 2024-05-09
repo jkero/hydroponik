@@ -64,12 +64,24 @@ Semis saison 2
 
 Question paramètres de plantation, il  y aurait des corrections à apporter, le basilic et très fort avec des feuilles énormes, pas tellement touffu, si je compare aux petits plants faluettes en vente dans les épiceries... Les valeurs de ph et ec ne correspondaient pas à un développement optimal pour toutes les espèces de plantes, bref le mélange des semis est à réévaluer.
 
-On a finalement "loué" les espaces précédemment occupés par la laitue à des racines (en terre) de gingembre. Avec un peu de substance nutritive, ça marche fort, les plants sont déjà rendus dans le plafond !
-
 .. figure:: ./images/hydropo_mai_2024.jpg
   :width: 500
   :alt: jungle de basilic ...
 
   La jungle de basilic dans la serre souple (9 mai 2024)
+
+.. sidebar::
+
+    .. figure:: ./images/gingembre.jpg
+      :width: 100
+      :alt: Les tiges de gingembre
+
+      Tiges de gingembre profitant de la serre souple
+
+On a finalement "loué" les espaces précédemment occupés par la laitue à des racines (en terre) de gingembre. Avec un peu de substance nutritive, ça marche fort, les plants sont déjà rendus dans le plafond !
+
+
+
+
 
 Derniers changements : |today|
