@@ -1,5 +1,10 @@
-Valeurs moyennes pour cultures hydroponiques
 ============================================
+Annexes
+============================================
+
+********************************************
+Valeurs moyennes pour cultures hydroponiques
+********************************************
 
 .. raw:: html
     :file: _static/externe/plantes/fetch5.html

@@ -17,8 +17,7 @@ Notes de notre projet hydroponique
    presentation
    mesures
    accessoires
-   plan
-   notes
+   saison1
    saison2
    semis
 

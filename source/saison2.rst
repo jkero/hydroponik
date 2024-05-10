@@ -1,3 +1,4 @@
+========
 Saison 2
 ========
 
@@ -19,8 +20,9 @@ Mes recherches démontrent qu'il y a un écart dans les valeurs de EC et Ph et q
 
 Par ailleurs, j'ai trouvé des valeurs de EC et Ph, glanées ici et là sur le web (fabricants, vendeurs, expérimentateurs, scientifiques...) et cette table :doc:`semis` indique pour plusieurs plantes les valeurs spécifiques.
 
+**************
 Semis saison 2
-++++++++++++++
+**************
 
 .. sidebar::
 
@@ -59,6 +61,10 @@ Semis saison 2
   :alt: dans les pots ...
 
   Jeunots en place dans les pots (26 janvier au 21 février 2024)
+
+*********
+Résultats
+*********
 
 **Finalement la jungle.**  L'hiver s'est passé avec une production intéressante de coriandre et de persil. C'est surtout le basilic qui est sorti en fou et gagné la course à la lumière. En second : le kale, pas assez à notre goût. La laitue a duré quelques semaines, mais j'ai l'impression que la compétition et les réglages (ph: 5.9, e.c.: 1.7 en moyenne) ne la favorisaient pas. Aussi la température ambiante (18° C) était un défi ; j'ai récupéré la chaleur du calorifère et fait une "serre souple" pour gagner 2-3 degrés.
 

@@ -29,7 +29,7 @@ Accessoires
      Peut-être (matériel aquarium)
 
 * Aérateur(eau)
-    Peut-être (matéeirl aquarium)
+    Peut-être (matériel aquarium)
 
 * Ventilateur
     Petit, diam. 7 \", en fonction.

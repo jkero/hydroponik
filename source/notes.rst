@@ -1,5 +1,6 @@
+*****
 Notes
-=====
+*****
 .. _solutions:
 
 Les solutions nutritives actuelles
