@@ -1,5 +1,5 @@
 Accessoires
-+++++++++++
+===========
 
 * Réservoir
     Type Versagrow (10 pots)
