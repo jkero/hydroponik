@@ -28,9 +28,11 @@ extensions = ['sphinxcontrib.plantuml',
               'sphinx.ext.intersphinx',
               ]
 
-plantuml = ['java', '-jar', '/usr/share/umltools/plantuml.jar']
+#plantuml = ['java', '-jar', '/usr/share/umltools/plantuml.jar']
+plantuml = ['java', '-jar', 'c:\\UML_tools\\plantuml\\plantuml.jar']
 
-GRAPHVIZ_DOT='/usr/bin/dot'
+GRAPHVIZ_DOT='C:\\UML_tools\\Graphviz\\bin\\dot.exe'
+#GRAPHVIZ_DOT='/usr/bin/dot'
 
 templates_path = ['_templates']
 exclude_patterns = []
@@ -41,7 +43,7 @@ language = 'fr'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme = "sphinx_rtd_theme"
-html_theme_options = {'show_powered_by' : 'False',}
+html_theme_options = {'show_powered_by' : 'False',} 
 html_theme_options = {
     'analytics_anonymize_ip': False,
     'logo_only': False,
