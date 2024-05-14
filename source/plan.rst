@@ -28,4 +28,3 @@ Rappels
 -------
     .. todolist::
 
-...
