@@ -6,8 +6,8 @@
 Notes de notre projet hydroponique
 ==================================
 .. meta::
-   :description: Percipere projet hydroponique
-   :keywords: hydroponique québec percipere.ca Ph EC projet.
+   :description: spherik projet hydroponique
+   :keywords: hydroponique québec spherik.ca Ph EC projet.
 
 
 
