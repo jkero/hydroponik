@@ -1,6 +1,20 @@
+
+
 ========
 Saison 2
 ========
+
+.. include:: plan2.rst
+
+(Bon le plan a varié un peu, les graines se sont mélangées, les pousses se ressemblaient toutes...)
+
+-------
+Rappels
+-------
+    .. todolist::
+
+...
+
 
 Préparatifs:
 
