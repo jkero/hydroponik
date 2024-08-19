@@ -1,1 +1,4 @@
 ./build/
+/.idea/dbnavigator.xml
+/.idea/hydroponik.iml
+/.idea/workspace.xml
