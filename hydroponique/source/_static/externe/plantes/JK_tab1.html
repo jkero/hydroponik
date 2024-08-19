@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <script src="_static/externe/plantes/js/jquery37.js"></script>
+  <script src="_static/externe/plantes/js/jktab2.js"></script>
+<link href="_static/externe/plantes/css/jktab.css" rel="stylesheet">
+</head>
+<body>
+<div id="main2">
+Cliquer les entêtes de colonnes pour trier.
+    <p>
+    <button class="b_vert" onclick="history.back()">Retour</button>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<button class="b_vert" onclick="location.href='#lebottom';">Bas de page</button><a name="letop"/>`
+    </p>
+    <table>
+        <thead id="headings">
+          <tr>
+                <th data-attr="nom">Nom</th>
+                <th data-attr="ec_min">EC_min</th>
+                <th data-attr="ec_max">EC_max</th>
+                <th data-attr="ph_min">Ph_min</th>
+                <th data-attr="ph_max">Ph_max</th>
+            </tr>
+        </thead>
+        <tbody id="results">
+            <!-- this will be auto-populated -->
+        </tbody>
+    </table>
+    <a name="lebottom"/><button class="b_vert" onclick="location.href='#letop';">Haut de page</button>
+</div>
+</body>
+</html>

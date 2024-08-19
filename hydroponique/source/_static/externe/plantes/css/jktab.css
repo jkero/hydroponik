@@ -1,0 +1,39 @@
+.b_vert{
+ border: solid 1px;
+ background-color:#77ff99;
+ margin:3px;
+ font-size:10px;
+}
+
+table{
+        margin-right:auto;
+        margin-left:auto;
+        text-align:center;
+        background-color:#77ff99;
+        border: solid 1px #ffffff;
+
+        thead{
+        border: solid 1px;
+        padding:3px;
+        background-color:#ffffff;
+        }
+
+        th{
+        border: solid 1px;
+        padding:5px;
+        text-transform:capitalize;
+        color:#000000;
+        }
+
+        td{
+        border: solid 1px #000000;;
+        padding:4px;
+        text-transform:capitalize;
+        color:#000000;
+        }
+    }
+
+tr:nth-child(even)
+ {
+  background-color: #ffff99;
+ }

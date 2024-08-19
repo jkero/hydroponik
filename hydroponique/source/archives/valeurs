@@ -1,0 +1,28 @@
+insert into plantes (nom,ec_min,ec_max,ph_min,ph_max, prod) values ('Asparagus',1.4,1.8,6.0,6.8,'tige');
+insert into plantes (nom,ec_min,ec_max,ph_min,ph_max, prod) values ('African Violet',1.2,1.5,6.0,7.0,'fleur');
+insert into plantes (nom,ec_min,ec_max,ph_min,ph_max, prod) values ('Basil',1.0,1.6,5.5,6.0,'feuille');
+insert into plantes (nom,ec_min,ec_max,ph_min,ph_max, prod) values ('Bean',2.0,4.0,6,6, 'fève');
+insert into plantes (nom,ec_min,ec_max,ph_min,ph_max, prod) values ('Banana',1.8,2.2,5.5,6.5,'fruit');
+insert into plantes (nom,ec_min,ec_max,ph_min,ph_max, prod) values ('Broccoli',2.8,3.5,6.0,6.8,'tige');
+insert into plantes (nom,ec_min,ec_max,ph_min,ph_max, prod) values ('Cabbage',2.5,3.0,6.5,7.0,'feuille');
+insert into plantes (nom,ec_min,ec_max,ph_min,ph_max, prod) values ('Celery',1.8,2.4,6.5,6.5,'tige');
+insert into plantes (nom,ec_min,ec_max,ph_min,ph_max, prod) values ('Carnation',2.0,3.5,6,6,'fleur');
+insert into plantes (nom,ec_min,ec_max,ph_min,ph_max, prod) values ('Courgettes',1.8,2.4,6,6,'fruit');
+insert into plantes (nom,ec_min,ec_max,ph_min,ph_max, prod) values ('Cucumber',1.7,2.0,5.0,5.5,'fruit');
+insert into plantes (nom,ec_min,ec_max,ph_min,ph_max, prod) values ('Eggplant',2.5,3.5,6,6,'fruit');
+insert into plantes (nom,ec_min,ec_max,ph_min,ph_max, prod) values ('Ficus',1.6,2.4,5.5,6.0,'feuille');
+insert into plantes (nom,ec_min,ec_max,ph_min,ph_max, prod) values ('Leek',1.4,1.8,6.5,7.0,'feuille');
+insert into plantes (nom,ec_min,ec_max,ph_min,ph_max, prod) values ('Lettuce',1.2,1.8,6.0,7.0,'feuille');
+insert into plantes (nom,ec_min,ec_max,ph_min,ph_max, prod) values ('Marrow',1.8,2.4,6,6,'fruit');
+insert into plantes (nom,ec_min,ec_max,ph_min,ph_max, prod) values ('Okra',2.0,2.4,6.5,6.5,'fruit');
+insert into plantes (nom,ec_min,ec_max,ph_min,ph_max, prod) values ('Pak Choi',1.5,2.0,7,7,'feuille');
+insert into plantes (nom,ec_min,ec_max,ph_min,ph_max, prod) values ('Peppers',0.8,1.8,5.5,6.0,'fruit');
+insert into plantes (nom,ec_min,ec_max,ph_min,ph_max, prod) values ('Parsley',1.8,2.2,6.0,6.5,'feuille');
+insert into plantes (nom,ec_min,ec_max,ph_min,ph_max, prod) values ('Rhubarb',1.6,2.0,5.5,6.0,'tige');
+insert into plantes (nom,ec_min,ec_max,ph_min,ph_max, prod) values ('Rose',1.5,2.5,5.5,6.0,'fleur');
+insert into plantes (nom,ec_min,ec_max,ph_min,ph_max, prod) values ('Spinach',1.8,2.3,6.0,7.0,'feuille');
+insert into plantes (nom,ec_min,ec_max,ph_min,ph_max, prod) values ('Strawberry',1.8,2.2,6,6,'fruit');
+insert into plantes (nom,ec_min,ec_max,ph_min,ph_max, prod) values ('Sage',1.0,1.6,5.5,6.5,'feuille');
+insert into plantes (nom,ec_min,ec_max,ph_min,ph_max, prod) values ('Tomato',2.0,4.0,6.0,6.5, 'fruit');
+
+#(\d.\d) to (\d.\d)(\s*)(\d?.\d to \d?\d.\d);

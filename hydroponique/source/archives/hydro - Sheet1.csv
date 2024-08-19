@@ -1,0 +1,138 @@
+,nom,ec_min,ec_max,ph_min,ph_max,prod
+,Watercress,0.4,1.8,6.5,7.0,feuille
+,Watercress,0.4,1.8,5.8,6.4,feuille
+,Cauliflower,0.5,2.0,6.0,7.0,tige
+,Artichoke,0.8,1.8,6.5,7.5,feuille
+,Arugula,0.8,1.8,6.0,7.5,feuille
+,Rocket,0.8,1.2,6.0,7.5,feuille
+,Pea,0.8,1.8,6.0,7.0,feve
+,Thyme,0.8,1.6,5.5,7.0,feuille
+,Nasturtium,0.8,1.6,6.0,7.0,fleur
+,Wheatgrass,0.8,1.2,6.0,7.0,feuille
+,Arugula,0.8,1.4,5.5,6.8,feuille
+,Beetroot,0.8,5.0,6.0,6.5,racine
+,Lettuce,0.8,1.2,5.5,6.5,feuille
+,Salad,0.8,1.5,5.5,6.5,feuille
+,Chamomile,0.8,1.4,5.5,6.5,fleur
+,Stevia,0.8,1.6,6.0,6.5,feuille
+,Peppers,0.8,1.8,5.5,6.0,fruit
+,Chervil,0.8,1.8,5.5,6.0,feuille
+,Parsley,0.8,1.8,5.5,6.0,feuille
+,Anise,0.9,1.4,5.8,6.4,feuille
+,Fennel,1.0,1.4,6.4,6.8,feuille
+,Lavender,1.0,1.4,6.4,6.8,feuille
+,Lavender,1.0,1.4,6.4,6.8,fleur
+,Lemon balm,1.0,1.6,5.5,6.5,feuille
+,Sage,1.0,1.6,5.5,6.5,feuille
+,Catnip,1.0,1.6,5.5,6.5,feuille
+,Chamomile,1.0,1.6,5.5,6.5,fleur
+,Tarragon,1.0,1.8,5.5,6.5,feuille
+,Basil,1.0,1.6,5.5,6.5,feuille
+,Dandelion,1.0,1.8,5.8,6.5,fleur
+,Marigold,1.0,3.6,5.8,6.5,fleur
+,Dill,1.0,1.6,5.5,6.4,feuille
+,Basil,1.0,1.6,5.5,6.0,feuille
+,Basil,1.0,1.6,5.5,6.0,feuille
+,Rosemary,1.0,1.6,5.5,6.0,feuille
+,Strawberries,1.0,1.4,5.0,5.5,fruit
+,African Violet,1.2,1.5,6.0,7.0,fleur
+,Lettuce,1.2,1.8,6.0,7.0,feuille
+,Vietnamese Coriander,1.2,1.8,6.5,6.8,feuille
+,Mustard Greens,1.2,2.4,5.5,6.8,feuille
+,Sunflower,1.2,1.8,5.5,6.8,fleur
+,Onions,1.2,1.8,6.0,6.7,bulbe
+,Cress,1.2,2.4,6.0,6.5,feuille
+,Mustard Cress,1.2,2.4,6.0,6.5,feuille
+,Daisy,1.2,1.8,5.5,6.5,fleur
+,Sunflower,1.2,1.8,5.5,6.5,fleur
+,Cilantro,1.2,1.8,5.8,6.4,feuille
+,Coriander,1.2,1.8,5.8,6.4,feuille
+,Cilantro,1.3,1.8,6.5,6.7,feuille
+,Kale,1.3,1.5,5.5,6.5,feuille
+,Viola,1.3,1.8,5.5,6.2,fleur
+,Leeks,1.4,1.8,6.5,7.0,feuille
+,Leek,1.4,1.8,6.5,7.0,feuille
+,Asparagus,1.4,1.8,6.0,6.8,tige
+,Asparagus,1.4,1.8,6.0,6.8,tige
+,Hot peppers,1.4,1.8,6.0,6.5,fruit
+,Black currant,1.4,1.8,6.0,6.0,fruit
+,Garlic,1.4,1.8,6.0,6.0,bulbe
+,Parsnip,1.4,1.8,6.0,6.0,racine
+,Red currant,1.4,1.8,6.0,6.0,fruit
+,Pak Choi_Tatsoi,1.5,2.0,6.0,7.5,feuille
+,Bok_Choy,1.5,2.0,6.5,7.0,feuille
+,Tomatoes,1.5,2.5,5.5,6.5,fruit
+,Edible Flower,1.5,1.5,5.5,6.0,fleur
+,Rose,1.5,2.5,5.5,6.0,fleur
+,Watermelon,1.5,2.4,5.8,5.8,fruit
+,Pak Choi,1.5,2.0,"7,0","7,0",feuille
+,Radish,1.6,2.2,6.0,7.0,racine
+,Marjoram,1.6,2.3,6.0,7.0,feuille
+,Radish,1.6,2.3,6.0,7.0,racine
+,Collard Greens,1.6,2.5,5.5,6.8,feuille
+,Kale,1.6,2.5,5.5,6.8,feuille
+,Sweet Granadilla,1.6,2.4,6.5,6.5,fruit
+,Carrots,1.6,2.0,6.3,6.3,racine
+,Rhubarb,1.6,2.0,5.0,6.0,tige
+,Sweet Corn,1.6,2.4,6.0,6.0,fruit
+,Ficus,1.6,2.4,5.5,6.0,feuille
+,Rhubarb,1.6,2.0,5.5,6.0,tige
+,Marjoram,1.6,2.0,6.0,6.0,feuille
+,Cucumber,1.7,2.5,5.8,6.0,fruit
+,Cucumber,1.7,2.0,5.0,5.5,fruit
+,Pumpkin,1.8,2.4,5.5,7.5,fruit
+,Spinach,1.8,2.3,6.0,7.0,feuille
+,Swiss chard,1.8,2.3,6.0,7.0,feuille
+,Spinach,1.8,2.3,6.0,7.0,feuille
+,Oregano,1.8,2.3,6.0,7.0,feuille
+,Savory,1.8,2.4,6.5,7.0,feuille
+,Bunching Onion,1.8,2.4,5.5,6.8,bulbe
+,Oregano,1.8,2.3,6.0,6.8,feuille
+,Celery,1.8,2.4,6.3,6.7,tige
+,Spinach,1.8,2.3,5.5,6.6,feuille
+,Banana,1.8,2.2,5.5,6.5,fruit
+,Beans,1.8,2.5,6.0,6.5,feve
+,Bell Pepper,1.8,2.8,6.0,6.5,fruit
+,Broad bean,1.8,2.2,6.0,6.5,feve
+,Celery,1.8,2.4,6.5,6.5,tige
+,Strawberry,1.8,2.2,5.5,6.5,fruit
+,Turnip,1.8,2.4,6.0,6.5,racine
+,Banana,1.8,2.2,5.5,6.5,fruit
+,Celery,1.8,2.4,6.5,6.5,tige
+,Parsley,1.8,2.2,6.0,6.5,feuille
+,Chives,1.8,2.4,6.0,6.5,feuille
+,Bean,1.8,2.4,6.0,6.5,feve
+,Swiss Chard,1.8,2.3,6.0,6.5,feuille
+,Chili,1.8,2.8,5.8,6.3,fruit
+,Zucchini,1.8,2.4,6.0,6.0,fruit
+,Cucumber,1.8,3.0,5.8,6.0,fruit
+,Squash,1.8,2.4,5.0,6.0,fruit
+,Zucchini,1.8,2.4,5.0,6.0,fruit
+,Blueberry,1.8,2.0,4.0,5.0,fruit
+,Courgettes,1.8,2.4,"6,0","6,0",fruit
+,Marrow,1.8,2.4,"6,0","6,0",fruit
+,Strawberry,1.8,2.2,"6,0","6,0",fruit
+,Okra,2.0,2.4,6.5,6.5,fruit
+,Sweet Potato,2.0,2.5,6.0,6.5,racine
+,Okra,2.0,2.4,6.5,6.5,fruit
+,Tomato,2.0,4.0,6.0,6.5,fruit
+,Peppers_Bell,2.0,2.5,6.0,6.5,fruit
+,Peppers_Hot,2.0,3.5,6.0,6.5,fruit
+,Tomato,2.0,5.0,5.5,6.5,fruit
+,Ginger,2.0,2.5,5.8,6.0,racine
+,Melon,2.0,2.5,5.5,6.0,fruit
+,Pineapple,2.0,2.4,5.5,6.0,fruit
+,Potato,2.0,2.5,5.0,6.0,racine
+,Chickory,2.0,2.4,5.5,6.0,feuille
+,Mint,2.0,2.4,5.5,6.0,feuille
+,Endive,2.0,2.4,5.5,5.5,feuille
+,Bean,2.0,4.0,"6,0","6,0",fève
+,Carnation,2.0,3.5,"6,0","6,0",fleur
+,Brussels sprouts,2.5,3.0,6.5,7.5,feuille
+,Brussel Sprouts,2.5,3.0,6.5,7.5,feuille
+,Cabbage,2.5,3.0,6.5,7.0,feuille
+,Cabbage,2.5,3.0,6.5,7.0,feuille
+,Eggplant,2.5,3.5,5.5,6.5,fruit
+,Eggplant,2.5,3.5,"6,0","6,0",fruit
+,Broccoli,2.8,3.5,6.0,6.8,tige
+,Broccoli,2.8,3.5,6.0,6.5,tige
