@@ -41,6 +41,6 @@ Démarrage
 
       Des pousses directement sur un feuille ?? (22 août 2024)
 
-Je ne suis pas certain de comprendre pourquoi il y a cette croissance quasi anarchique de pousse sur les feuilles de kale...
+Je ne suis pas certain de comprendre pourquoi il y a cette croissance quasi-anarchique de pousses sur les feuilles de kale...
 
 Derniers changements : |today|
