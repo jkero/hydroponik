@@ -33,5 +33,14 @@ Démarrage
 
   Pousses de laitue et basilic (19 août 2024)
 
+**Curiosité**
+
+.. figure:: ./images/kale_sur_kale.png
+      :width: 350
+      :alt: Des pousses directement sur un feuille ??
+
+      Des pousses directement sur un feuille ?? (22 août 2024)
+
+Je ne suis pas certain de comprendre pourquoi il y a cette croissance quasi anarchique de pousse sur les feuilles de kale...
 
 Derniers changements : |today|
