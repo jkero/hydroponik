@@ -77,19 +77,27 @@ On recommence cet hiver avec des plantes à feuilles seulement.
 
 Résultats
 #########
-    .. sidebar::
+
+.. sidebar::
 
     .. figure:: ./images/saison1_piment.jpg
-      :width: 350
+      :width: 250
       :alt: Piments en juin 2023
 
-       Piments en juin 2023
+    Piments en juin 2023
 
 .. figure:: ./images/saison1_tomate.jpg
-  :width: 200
-  :alt: Petites tomates en juin 2023
+    :width: 350
+    :alt: Petites tomates en juin 2023
 
-  Petites tomates en juin 2023
+Petites tomates en juin 2023
+
+Conclusion pour la première saison
+##################################
+
+À part d'avoir mis un peu n'importe quoi dans les pots, il y a eu des résultats intéressants. Comment déjà mentionné, les piments on gagné, en termes d'occupation d'espace et d'accaparement de la lumière. Laitues et persil : pas fameux, trop bas, paramètres hors normes.
+
+
 
 Derniers changements : |today|
 
