@@ -34,8 +34,10 @@ Il y a donc des compromis à faire car il y a des écarts entre les valeurs des 
 .. todo::
     Renouveler alimentation (solution nutritive) régulièrement (conjointement avec remplacement de l'eau).
 
+++++++++++++++++++++++++++++++++++++++++++++++
 Ajout de nutriments et remplacement du liquide
 ++++++++++++++++++++++++++++++++++++++++++++++
+
 
 Quand doit-on ajouter de la solutions nutritive fraîche ? Pas clair. On se fie à la lecture EC pour la concentration générale... Ça ne varie pas beaucoup (contrairement au Ph qui augmente de ~0.1 par jour).
 
@@ -47,6 +49,7 @@ On remplace l'eau : quelques litres "neufs" par semaine + ajustements Ph ad hoc 
 .. todo::
     Remplacer 10-15 litres eau aux 2-3 semaines et ajuster nutriments et Ph.
 
+++++++++++++++++++++
 Horaire d'irrigation
 ++++++++++++++++++++
 
@@ -54,10 +57,12 @@ Encore en train de déterminer la bonne fréquence. Les sources sont assez diver
 
 Pour le moment ça a été 3 X 15 min. par jour. Ça ne semble pas assez, croissance lente... (mais pas de morts è signaler).
 
+++++++++++++++++++++++++++++++
 Types de diffuseurs (drippers)
 ++++++++++++++++++++++++++++++
 On a le modèle en forme de piquet pour un pot carré de 13 cm de côté, ça n'a pas l'air de mouiller toutes les billes d'argile. Ça prendrait peut-être un diffuseur plus large, qui couvre plus de surface.
 
+++++++++++++++++++++++++++++++
 Fin de la culture (saison 1)
 ++++++++++++++++++++++++++++++
 La terre, la vraie, celle qu'il faut mouvoir, nourrir et ensemencer, appelant les seules ressources disponibles, on a simplement arrêté la culture hydroponique et nettoyé l'équipement.
@@ -68,6 +73,23 @@ la laitue. Pour ce premier test on a fait quelques erreurs dont (pour le test) f
 Quelques remarques finales: vu le compromis entre tomates et piments, on a maintenu le ph entre 5.8 et 6.3. L'E.C. a été maintenue entre 1.8 et 3 (vers la fin). La quantité de nutrimens semblait exponentielle pour affecter la lecture d'un dixième de milli-siemens/cm...
 
 On recommence cet hiver avec des plantes à feuilles seulement.
+
+
+Résultats
+#########
+    .. sidebar::
+
+    .. figure:: ./images/saison1_piment.jpg
+      :width: 350
+      :alt: Piments en juin 2023
+
+       Piments en juin 2023
+
+.. figure:: ./images/saison1_tomate.jpg
+  :width: 200
+  :alt: Petites tomates en juin 2023
+
+  Petites tomates en juin 2023
 
 Derniers changements : |today|
 
