@@ -1200,7 +1200,7 @@ var arr = [
         "ph_max": "7.0"
     },
     {
-        "nom": "Epinard",
+        "nom": "Épinard",
         "name": "Spinach",
         "ec_min": "1.8",
         "ec_max": "2.3",
@@ -1208,7 +1208,7 @@ var arr = [
         "ph_max": "6.6"
     },
     {
-        "nom": "Epinard",
+        "nom": "Épinard",
         "name": "Spinach",
         "ec_min": "1.8",
         "ec_max": "2.3",
@@ -1528,7 +1528,7 @@ $(function() {
             $(this).attr('data-asc', 'asc');
         }
 
-        sortResults(attr, asc);
+        JK_sortResults(attr, asc);
     });
 
     renderResults();
@@ -1544,6 +1544,18 @@ function sortResults(prop, asc) {
     });
     renderResults();
 }
+
+function JK_sortResults(prop, asc) {
+    arr.sort(function(a, b) {
+        if (asc) {
+            return (a[prop].localeCompare(b[prop], "fr")) > 1 ? 1 : ((a[prop].localeCompare(b[prop], "fr")) < 1 ? -1 : 0);
+        } else {
+            return (b[prop].localeCompare(a[prop], "fr"))  > 1 ? 1 : ((b[prop].localeCompare(a[prop], "fr")) < 1 ? -1 : 0);
+        }
+    });
+    renderResults();
+}
+
 
 function renderResults () {
     var html = '';
