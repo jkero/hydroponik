@@ -1,0 +1,192 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5
+,,,,,
+,Nom,EC_min,EC_max,Ph_min,Ph_max
+Violette africaine,African Violet,1.2,1.5,6.0,7.0
+Anis,Anise,0.9,1.4,5.8,6.4
+Artichaut,Artichoke,0.8,1.8,7.5,7.5
+Artichaut,Artichoke,0.8,1.8,6.5,7.5
+Roquette,Arugula,0.8,1.8,6.0,7.5
+Roquette,Arugula,0.8,1.4,5.5,6.8
+Asperge,Asparagus,1.4,1.8,6.8,6.8
+Asperge,Asparagus,1.4,1.8,6.0,6.8
+Banane,Banana,1.8,2.2,6.5,6.5
+Banane,Banana,1.8,2.2,5.5,6.5
+Basilic,Basil,1.0,1.6,6.5,6.5
+Basilic,Basil,1.0,1.6,5.5,6.0
+Basilic,Basil,1.0,1.6,5.5,6.5
+Fève,Bean,2.0,4.0,6.0,6.0
+Fève,Bean,1.8,2.4,6.0,6.5
+Fève,Bean [Common],2.0,2.4,6.0,6.0
+Fève,Beans,1.8,2.5,6.0,6.5
+Haricot,Beans [Italian bush],-1.0,-1.0,6.5,6.5
+Fève de Lima,Beans [Lima],-1.0,-1.0,6.5,6.5
+Haricot,Beans [Pole],-1.0,-1.0,6.5,6.5
+Betterave,Beetroot,0.8,5.0,6.5,6.5
+Betterave,Beetroot,0.8,5.0,6.0,6.5
+Piment,Bell Pepper,1.8,2.8,6.0,6.5
+Piment,Bell peppers,2.0,2.5,6.5,6.5
+Cassis,Black currant,1.4,1.8,6.0,6.0
+Bleuet,Blueberry,1.8,2.0,4.0,5.0
+Bok choy,Bok_Choy,1.5,2.0,6.5,7.0
+Féverole,Broad Bean,1.8,2.2,6.5,6.5
+Féverole,Broad bean,1.8,2.2,6.0,6.5
+Broccoli,Broccoli,2.8,3.5,6.0,6.8
+Broccoli,Broccoli,2.8,3.5,6.5,6.5
+Broccoli,Broccoli,2.8,3.5,6.0,6.5
+Chou de Bruxelles,Brussel Sprouts,2.5,3.0,6.5,7.5
+Chou de Bruxelles,Brussell Sprout,2.5,3.0,7.5,7.5
+Chou de Bruxelles,Brussels sprouts,2.5,3.0,6.5,7.5
+Ciboulette,Bunching Onion,1.8,2.4,5.5,6.8
+Chou,Cabbage,2.5,3.0,7.0,7.0
+Chou,Cabbage,2.5,3.0,6.5,7.0
+Piment,Capsicum,1.8,2.2,6.5,6.5
+Oeillet,Carnation,2.0,3.5,6.0,6.0
+Carotte,Carrots,1.6,2.0,6.3,6.3
+Cataire,Catnip,1.0,1.6,5.5,6.5
+Chou-fleur,Cauliflower,0.5,2.0,7.0,7.0
+Chou-fleur,Cauliflower,0.5,2.0,6.0,7.0
+Céleri,Celery,1.8,2.4,6.3,6.7
+Céleri,Celery,1.8,2.4,6.5,6.5
+Camomille,Chamomile,1.0,1.6,5.5,6.5
+Camomille,Chamomile,0.8,1.4,5.5,6.5
+Cerfeuil,Chervil,0.8,1.8,5.5,6.0
+Chicorée,Chickory,2.0,2.4,5.5,6.0
+Chicorée,Chicory,2.0,2.4,6.0,6.0
+Piment,Chili,1.8,2.8,5.8,6.3
+Ciboulette,Chives,1.8,2.4,6.5,6.5
+Ciboulette,Chives,1.8,2.4,6.0,6.5
+Coriandre,Cilantro,1.3,1.8,6.5,6.7
+Coriandre,Cilantro,1.2,1.8,5.8,6.4
+Chou,Collard Greens,1.6,2.5,5.5,6.8
+Chou,Collard greens,-1.0,-1.0,7.5,7.5
+Coriandre,Coriander,1.2,1.8,5.8,6.4
+Courgettes,Courgettes,1.8,2.4,6.0,6.0
+Cresson,Cress,1.2,2.4,6.0,6.5
+Concombre,Cucumber,1.7,2.5,6.0,6.0
+Concombre,Cucumber,1.7,2.0,5.0,5.5
+Concombre,Cucumber,1.8,3.0,5.8,6.0
+Concombre,Cucumber,1.7,2.5,5.8,6.0
+Marguerite,Daisy,1.2,1.8,5.5,6.5
+Pissenlit,Dandelion,1.0,1.8,5.8,6.5
+Aneth,Dill,1.0,1.6,5.5,6.4
+Fleur comestible,Edible Flower,1.5,1.5,5.5,6.0
+Aubergine,Eggplant,2.5,3.5,6.0,6.0
+Aubergine,Eggplant,2.5,3.5,5.5,5.5
+Aubergine,Eggplant,2.5,3.5,5.5,6.5
+Endive,Endive,2.0,2.4,6.0,6.0
+Endive,Endive,2.0,2.4,5.5,5.5
+Fenouil,Fennel,1.0,1.4,6.8,6.8
+Fenouil,Fennel,1.0,1.4,6.4,6.8
+Figuier,Ficus,1.6,2.4,5.5,6.0
+Fourrage,Fodder,1.8,2.0,6.0,6.0
+Ail,Garlic,1.4,1.8,6.0,6.0
+Gingembre,Ginger,2.0,2.5,5.8,6.0
+Piment fort,Hot Peppers,3.0,3.5,6.5,6.5
+Piment fort,Hot peppers,1.4,1.8,6.0,6.5
+Kale,Kale,1.6,2.5,5.5,6.8
+Kale,Kale,1.3,1.5,5.5,6.5
+Lavande,Lavender,1.0,1.4,6.8,6.8
+Lavande,Lavender,1.0,1.4,6.4,6.8
+Poireau,Leek,1.4,1.8,6.5,7.0
+Poireau,Leek,1.4,1.8,7.0,7.0
+Poireau,Leeks,1.4,1.8,6.5,7.0
+Mélisse,Lemon balm,1.0,1.6,6.5,6.5
+Mélisse,Lemon balm,1.0,1.6,5.5,6.5
+Laitue,Lettuce,1.2,1.8,6.0,7.0
+Laitue,Lettuce,0.8,1.2,6.5,6.5
+Laitue,Lettuce,0.8,1.2,5.5,6.5
+Tagète,Marigold,1.0,3.6,5.8,6.5
+Marjolaine,Marjoram,1.6,2.3,6.0,7.0
+Marjolaine,Marjoram,1.6,2.0,6.0,6.0
+Courge,Marrow,1.8,2.4,6.0,6.0
+Melon,Melon,2.0,2.5,6.0,6.0
+Melon,Melon,2.0,2.5,5.5,6.0
+Menthe,Mint,2.0,2.4,6.0,6.0
+Menthe,Mint,2.0,2.4,5.5,6.0
+Moutarde,Mustard Cress,1.2,2.4,6.0,6.5
+Moutarde,Mustard Cress,1.3,2.4,6.5,6.5
+Moutarde,Mustard Greens,1.2,2.4,5.5,6.8
+Capucine,Nasturtium,0.8,1.6,6.0,7.0
+Okra,Okra,2.0,2.4,6.5,6.5
+Oignons,Onions,1.4,1.8,6.7,6.7
+Oignons,Onions,1.2,1.8,6.0,6.7
+Origan,Oregano,1.8,2.3,6.0,7.0
+Origan,Oregano,1.8,2.3,6.0,6.8
+Pak Choi,Pak Choi,1.5,2.0,7.0,7.0
+Pak Choi_Tatsoi,Pak Choi_Tatsoi,1.5,2.0,6.0,7.5
+Pak-choi,Pak-choi,2.5,2.0,7.0,7.0
+Papaye,Papaye,2.0,2.4,6.5,6.5
+Persil,Parsley,1.8,2.2,6.0,6.5
+Persil,Parsley,0.8,1.8,6.0,6.0
+Persil,Parsley,0.8,1.8,5.5,6.0
+Panais,Parsnip,1.4,1.8,6.0,6.0
+Fruit de la passion,Passionfruit,1.6,2.4,6.5,6.5
+Pois,Pea,0.8,1.8,7.0,7.0
+Pois,Pea,0.8,1.8,6.0,7.0
+Pois mange-tout,Peas [Sugar],-1.0,-1.0,6.8,6.8
+Melon Pepino,Pepino,2.0,5.0,6.5,6.5
+Poivron,Peppers,2.0,3.0,6.3,6.3
+Poivron,Peppers,0.8,1.8,5.5,6.0
+Piment,Peppers_Bell,2.0,2.5,6.0,6.5
+Piment,Peppers_Hot,2.0,3.5,6.0,6.5
+Ananas,Pineapple,2.0,2.4,6.0,6.0
+Ananas,Pineapple,2.0,2.4,5.5,6.0
+Pomme de terre,Potato,2.0,2.5,5.5,6.0
+Pomme de terre,Potato,2.0,2.5,5.0,6.0
+Citrouille,Pumpkin,1.8,2.4,5.5,7.5
+Mesclun,Radicchio,-1.0,-1.0,6.5,6.5
+Radis,Radish,1.6,2.2,7.0,7.0
+Radis,Radish,1.6,2.3,6.0,7.0
+Radis,Radish,1.6,2.2,6.0,7.0
+Gadelle,Red currant,1.4,1.8,6.0,6.0
+Rhubarbe,Rhubarb,1.6,2.0,5.5,6.0
+Rhubarbe,Rhubarb,1.6,2.0,6.0,6.0
+Rhubarbe,Rhubarb,1.6,2.0,5.0,6.0
+Roquette,Rocket,0.8,1.2,6.0,7.5
+Rose,Rose,1.5,2.5,5.5,6.0
+Romarin,Rosemary,1.0,1.6,6.0,6.0
+Romarin,Rosemary,1.0,1.6,5.5,6.0
+Sauge,Sage,1.0,1.6,5.5,6.5
+Sauge,Sage,1.0,1.6,6.5,6.5
+Salade ,Salad,0.8,1.5,5.5,6.5
+Sariette,Savory,1.8,2.4,6.5,7.0
+Bette à carde,Silverbeet,1.8,2.3,7.0,7.0
+Épinard,Spinach,1.8,2.3,6.6,6.6
+Épinard,Spinach,1.8,2.3,6.0,7.0
+Épinard,Spinach,1.8,2.3,5.5,6.6
+Courge,Squash,1.8,2.4,5.0,6.0
+Courge,Squash [Summer],1.8,2.4,6.5,6.5
+Courge,Squash [Winter],-1.0,-1.0,6.5,6.5
+Stevia,Stevia,0.8,1.6,6.0,6.5
+Fraise,Strawberries,1.8,2.2,6.5,6.5
+Fraise,Strawberries,1.0,1.4,5.0,5.5
+Fraise,Strawberry,1.8,2.2,6.0,6.0
+Fraise,Strawberry,1.8,2.2,5.5,6.5
+Tournesol,Sunflower,1.2,1.8,5.5,6.8
+Tournesol,Sunflower,1.2,1.8,5.5,6.5
+Maïs,Sweet Corn,1.6,2.4,6.0,6.0
+Grenadille,Sweet Granadilla,1.6,2.4,6.5,6.5
+Patate douce,Sweet Potato,2.0,2.5,6.0,6.5
+Patate douce,Sweet Potato,2.0,2.5,6.0,6.0
+Bette à carde,Swiss Chard,1.8,2.3,6.0,6.5
+Bette à carde,Swiss chard,1.8,2.3,6.0,7.0
+Bette à carde,Swiss chard,1.6,2.3,6.5,6.5
+Colocase,Taro,2.5,3.0,5.5,5.5
+Estragon,Tarragon,1.0,1.8,5.5,6.5
+Thym,Thyme,0.8,1.6,7.0,7.0
+Thym,Thyme,0.8,1.6,5.5,7.0
+Tomate,Tomato,2.0,5.0,6.5,6.5
+Tomate,Tomato,2.0,4.0,6.0,6.5
+Tomate,Tomato,1.5,2.5,5.5,6.5
+Tomate,Tomato,2.0,5.0,5.5,6.5
+Navet,Turnip,1.8,2.4,6.5,6.5
+Navet,Turnip,1.8,2.4,6.0,6.5
+Coriandre viet.,Vietnamese Coriander,1.2,1.8,6.5,6.8
+Violette,Viola,1.3,1.8,5.5,6.2
+Cresson,Watercress,0.4,1.8,6.8,6.8
+Cresson,Watercress,0.4,1.8,6.5,7.0
+Cresson,Watercress,0.4,1.8,5.8,6.4
+Melon d’eau,Watermelon,1.5,2.4,5.8,5.8
+Blé (pousse),Wheatgrass,0.8,1.2,6.0,7.0
+Zucchini,Zucchini,1.8,2.4,6.0,6.0
+Zucchini,Zucchini,1.8,2.4,5.0,6.0
