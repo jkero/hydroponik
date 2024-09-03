@@ -1200,7 +1200,7 @@ var arr = [
         "ph_max": "7.0"
     },
     {
-        "nom": "Épinard",
+        "nom": "Epinard",
         "name": "Spinach",
         "ec_min": "1.8",
         "ec_max": "2.3",
@@ -1208,7 +1208,7 @@ var arr = [
         "ph_max": "6.6"
     },
     {
-        "nom": "Épinard",
+        "nom": "Epinard",
         "name": "Spinach",
         "ec_min": "1.8",
         "ec_max": "2.3",
@@ -1216,7 +1216,7 @@ var arr = [
         "ph_max": "7.0"
     },
     {
-        "nom": "Épinard",
+        "nom": "Epinard",
         "name": "Spinach",
         "ec_min": "1.8",
         "ec_max": "2.3",
