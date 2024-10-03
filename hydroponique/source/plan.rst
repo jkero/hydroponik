@@ -20,7 +20,7 @@ Plan de culture
         :persil;
         split again
         :tatsoï;
-        :piment;
+        :piments;
     @enduml
 
 -------
