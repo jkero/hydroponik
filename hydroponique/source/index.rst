@@ -6,7 +6,7 @@
 Notes de notre projet hydroponique
 ==================================
 .. meta::
-   :description: spherik projet hydroponique
+   :description: spherik projet hydroponique kéroack
    :keywords: hydroponique québec spherik.ca Ph EC projet.
 
 
