@@ -20,41 +20,43 @@ Après quelques hésitations sur les prochaines pousses, voici dnc les semis can
 
   Candidats saison 4
 
-.. uml::
+.. sidebar::
 
-    @startuml
-    title Plan saison 4
-    start
-    split
-        :1;
-        :6;
-    split again
-        :2;
-        :7;
+
+    .. uml::
+
+        @startuml
+        title Plan saison 4
+        start
+        split
+            :1;
+            :6;
         split again
-        :3;
-        :8;
-        split again
-        :4;
-        :9;
-        split again
-        :5;
-        :10;
-    @enduml
+            :2;
+            :7;
+            split again
+            :3;
+            :8;
+            split again
+            :4;
+            :9;
+            split again
+            :5;
+            :10;
+        @enduml
 
-1, 2, 6: Kale Lacinato brassica oleracea acephala lacinata
+.. figure:: ./images/semis_2025.jpg
+  :width: 250
+  :alt: soyons patients
 
-3: Persil italien
 
-4: Basilic
-
-5, 10: Bette à carde beta vulgaris cycla
-
-7: Laitue lactua sativa
-
-8: Aneth
-
-9: Coriandre coriandum sativa
+- **1, 2, 6**: Kale Lacinato brassica oleracea acephala lacinata
+- **3**: Persil italien
+- **4**: Basilic
+- **5, 10**: Bette à carde beta vulgaris cycla
+- **7**: Laitue lactua sativa
+- **8**: Aneth
+- **9**: Coriandre coriandum sativa
 
 -----------------------------------
 
