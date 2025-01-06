@@ -23,6 +23,7 @@ Après quelques hésitations sur les prochaines pousses, voici dnc les semis can
 .. uml::
 
     @startuml
+    title Plan saison 4
     start
     split
         :1;
