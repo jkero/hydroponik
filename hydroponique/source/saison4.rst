@@ -60,5 +60,10 @@ Après quelques hésitations sur les prochaines pousses, voici dnc les semis can
 
 -----------------------------------
 
+.. figure:: ./images/15_janv_bette.jpg
+    :width: 450
+    :alt: Pouponnière
+
+    Avant de planter les égoutteurs je biberonne les plants (avant-plan: bettes-à-carde).
 
 Derniers changements : |today|
