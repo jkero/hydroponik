@@ -60,10 +60,19 @@ Après quelques hésitations sur les prochaines pousses, voici dnc les semis can
 
 -----------------------------------
 
-.. figure:: ./images/15_janv_bette.jpg
+.. figure:: ./images/15_janv_bette.png
     :width: 450
-    :alt: Pouponnière
+    :alt: Pouponnière.
 
     Avant de planter les égoutteurs je biberonne les plants (avant-plan: bettes-à-carde).
+
+-----------------------------------
+
+
+.. figure:: ./images/trio_7_fev_25.png
+    :width: 800
+    :alt: Post_biberon
+
+    Presque à la fin de l'arrosage manuel. Les égoutteurs alimentent quelques racines. (G. à d.) Kale, laitue, persil, aneth, basilic (pas prêt), coriandre, bette-à-carde(s)
 
 Derniers changements : |today|
