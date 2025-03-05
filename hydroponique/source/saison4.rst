@@ -75,4 +75,17 @@ Après quelques hésitations sur les prochaines pousses, voici dnc les semis can
 
     Presque à la fin de l'arrosage manuel. Les égoutteurs alimentent quelques racines. (G. à d.) Kale, laitue, persil, aneth, basilic (pas prêt), coriandre, bette-à-carde(s)
 
+_____________________________________
+
+.. figure:: ./images/5_mars_50cm.jpg
+    :width: 800
+    :alt: 5 mars, à 50 cm
+
+    Finalement, le 5 mars, arangement autonome, sauf basilic (semé plus tard) qui requiert des arrosages manuels. Les kales sont à 50 cm.
+
+
+Le Ph est maintenu à 5.5 max, ça réussit mieux par rapport aux autres saisons.
+
+_____________________________________
+
 Derniers changements : |today|
