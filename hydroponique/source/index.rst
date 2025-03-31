@@ -17,6 +17,7 @@ Notes de notre projet hydroponique
    presentation
    mesures
    accessoires
+   solutions
    saison1
    saison2
    saison3
