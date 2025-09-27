@@ -1,0 +1,39 @@
+#main
+    {
+    margin-right:auto;
+    margin-left:auto;
+    text-align:center;
+
+    table{
+        margin-right:auto;
+        margin-left:auto;
+        text-align:center;
+        background-color:#77ff99;
+        border: solid 1px #ff9955;
+
+        thead{
+        border: solid 1px;
+        padding:3px;
+        background-color:#77ff99;
+        }
+
+        th{
+        border: solid 1px;
+        padding:5px;
+        text-transform:capitalize;
+        }
+
+        td{
+        border: solid 1px #000000;;
+        padding:4px;
+        background-color:#ffffff;
+        text-transform:capitalize;
+        }
+    }
+}
+.b_vert{
+ border: solid 1px;
+ background-color:#77ff99;
+ margin:3px;
+ font-size:10px;
+}
