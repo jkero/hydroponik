@@ -77,6 +77,10 @@ Après quelques hésitations sur les prochaines pousses, voici dnc les semis can
 
 _____________________________________
 
+*************
+Mi-saison
+*************
+
 .. figure:: ./images/5_mars_50cm.jpg
     :width: 800
     :alt: 5 mars, à 50 cm
@@ -85,6 +89,24 @@ _____________________________________
 
 
 Le Ph est maintenu à 5.5 max, ça réussit mieux par rapport aux autres saisons.
+
+_____________________________________
+
+.. sidebar::
+
+    .. figure:: ./images/fin_s_4.jpg
+        :width: 800
+        :alt: 22 mai on va terminer à ce stade
+
+*************
+Fin de saison
+*************
+
+Nous voilà fin mai, les kales sont longs, accotés dans l'éclairage, il n'y a plus de laitue ni de coriandre. Les bettes-à-carde sont heureuses, le basilic commence à peine à s'exprimer, le persil est joli, mais avec des pigments blancs (?). L'aneth est superbe.
+
+Cet hiver, on a mangé des feuilles fraîches plusieurs fois par semaine, pas en quantité, mais en qualité. On va essayer de transférer le basilic dehors, en terre (ça a bien marché l'an dernier).
+
+
 
 _____________________________________
 
