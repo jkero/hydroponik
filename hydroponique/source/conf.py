@@ -31,8 +31,8 @@ extensions = ['sphinxcontrib.plantuml',
 plantuml = ['java', '-jar', '/usr/share/java/plantuml/plantuml.jar']
 #plantuml = ['java', '-jar', 'c:\\UML_tools\\plantuml\\plantuml.jar']
 
-GRAPHVIZ_DOT='C:\\UML_tools\\Graphviz\\bin\\dot.exe'
-#GRAPHVIZ_DOT='/usr/bin/dot'
+#GRAPHVIZ_DOT='C:\\UML_tools\\Graphviz\\bin\\dot.exe'
+GRAPHVIZ_DOT='/usr/bin/dot'
 
 templates_path = ['_templates']
 exclude_patterns = []
