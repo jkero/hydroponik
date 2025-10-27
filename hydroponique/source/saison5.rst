@@ -45,7 +45,6 @@ Espèces à décider, probablement bette-à-carde et basilic.
   :width: 250
   :alt: soyons patients
 
-.. À décider plus tard.
 
 .. comentaire- **1, 2, 6**: Kale Lacinato brassica oleracea acephala lacinata
     - **3**: Persil italien
@@ -62,8 +61,6 @@ Espèces à décider, probablement bette-à-carde et basilic.
     :alt: Pouponnière.
     Avant de planter les égoutteurs je biberonne les plants (avant-plan: bettes-à-carde).
 
------------------------------------
-
 
 .. comentaire figure:: ./images/trio_7_fev_25.png
     :width: 800
@@ -71,7 +68,31 @@ Espèces à décider, probablement bette-à-carde et basilic.
     Presque à la fin de l'arrosage manuel. Les égoutteurs alimentent quelques racines. (G. à d.) Kale, laitue, persil, aneth, basilic (pas prêt), coriandre, bette-à-carde(s)
 
 _____________________________________
-Le reste à communiquer...
+
+On sème...
+
+- **1** Piment d'Espelette
+
+- **2-3** Kale Lacinato (le 2 a souffert, remplacé par persil)
+
+- **4** Tsatsoï
+
+- **5-6** Kale frisé
+
+- **7-8** Bette-à-carde rouge (8 a souffert remplacé par basilic)
+
+- **9-10** Bette-à-carde "Bright light"
+
+
+.. figure:: ./images/debut_saison5.jpg
+    :width: 500
+    :alt: debut saison 5 (collage)
+
+    Bette-à-carde au fond; premier plan : Tsatsoï, Kale, Espelette
+
+
+Confession: j'ai oublié de traiter l'eau de mon bassin et elle est devenue pas mal alcaline, il était temps que je vérifie; aussi je n'avais pas encore ajouté mes solutions nutrifives. Ah làlà, distractions... Ça n'explique pas vraiment pourquoi 2 blocs *oasis* refusent au semis de croître...
+
 _____________________________________
 
 Derniers changements : |today|
