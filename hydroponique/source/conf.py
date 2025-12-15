@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Hydroponique'
-copyright = '2024-2025, jk@spherik.ca'
+copyright = '2025-2026, jk@spherik.ca'
 author = 'jk'
 release = '0.1'
 

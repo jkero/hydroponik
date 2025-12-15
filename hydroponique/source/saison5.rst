@@ -93,6 +93,45 @@ On sème...
 
 Confession: j'ai oublié de traiter l'eau de mon bassin et elle est devenue pas mal alcaline, il était temps que je vérifie; aussi je n'avais pas encore ajouté mes solutions nutrifives. Ah làlà, distractions... Ça n'explique pas vraiment pourquoi 2 blocs *oasis* refusent au semis de croître...
 
-_____________________________________
+*****************
+Plus deux mois...
+*****************
+
+Saison un peu lente, il me semble.
+
+Quand même, deux mois après (j'écris le 15 décembre) il y a quelques résultats. En gros, l'espelette est heureux mais au stade floral seulement, ci-après.
+
+.. sidebar::
+
+    .. figure:: ./images/fleur_espelette.jpg
+        :width: 300
+        :alt: 15 décembre, deux mois espelette !
+
+        Fleur d'espelette
+
+.. figure:: ./images/plant_espelette.jpg
+    :width: 250
+    :alt: petit plant d'espelette de 40 cm
+
+    Plant d'espelette
+
+
+
+Il faut dire qu'on coupe des feuilles de tsatsoï, kale et bette-à-carde depuis quelques semaines. Le kale bleu est assez triste et le persil n'a jamais marché.  Je me suis concentré sur une solution plutôt acide ( Ph 5.5 - 6.0, e.c. autour de 2.0) . Bref, il y a quand même quelques gagnants...
+
+.. sidebar::
+
+    .. figure:: ./images/tsatsoi_15dec.jpg
+        :width: 500
+        :alt: Tsatsoï
+
+        Tsatsoï, un peu petit.
+
+.. figure:: ./images/bette_et_kale.jpg
+    :width: 375
+    :alt: Bette et Kale
+
+    Bette-à-carde et kale, ils sont plutôt heureux...
+
 
 Derniers changements : |today|
