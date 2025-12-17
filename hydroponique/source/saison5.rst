@@ -116,16 +116,23 @@ Quand même, deux mois après (j'écris le 15 décembre) il y a quelques résult
     Plant d'espelette
 
 
+-------------------------------------------------------------
 
 Il faut dire qu'on coupe des feuilles de tsatsoï, kale et bette-à-carde depuis quelques semaines. Le kale bleu est assez triste et le persil n'a jamais marché.  Je me suis concentré sur une solution plutôt acide ( Ph 5.5 - 6.0, e.c. autour de 2.0) . Bref, il y a quand même quelques gagnants...
 
-.. sidebar::
-
     .. figure:: ./images/tsatsoi_15dec.jpg
-        :width: 500
+        :width: 200
         :alt: Tsatsoï
 
         Tsatsoï, un peu petit.
+
+.. sidebar::
+
+    .. figure:: ./images/plusieurs_fleurs.jpg
+        :width: 300
+        :alt: quelques fleurs
+
+        Il y a quelques fleurs...
 
 .. figure:: ./images/bette_et_kale.jpg
     :width: 375
@@ -133,5 +140,6 @@ Il faut dire qu'on coupe des feuilles de tsatsoï, kale et bette-à-carde depuis
 
     Bette-à-carde et kale, ils sont plutôt heureux...
 
+------------------------------------------------
 
 Derniers changements : |today|
