@@ -140,6 +140,22 @@ Il faut dire qu'on coupe des feuilles de tsatsoï, kale et bette-à-carde depuis
 
     Bette-à-carde et kale, ils sont plutôt heureux...
 
+
+
+------------------------------------------------
+
+
+*************************
+Vers la fin : 20 mars...
+*************************
+
+.. figure:: ./images/pimento.jpg
+    :width: 575
+    :alt: Bette et Kale
+
+    C'est le piment qui a gagné la compétition cette saison. J'ai dû l'arracher car il n'y avait plus de fruits et probablement des parasites qui commençaient (ça ressemble à de la poussière). Il faut dire que le kale persiste, et il y en pousse encore, les plants mesurent 1 mètre. La bette-à-carde est modeste, le basilic fait acte de présence...
+
+
 ------------------------------------------------
 
 Derniers changements : |today|

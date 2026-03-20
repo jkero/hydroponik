@@ -60,4 +60,5 @@ Il y a donc des compromis à faire car il y a des écarts entre les valeurs des 
     Amélioration de la qualité des fruits : Contribue à une meilleure saveur, couleur et consistance des fruits et légumes-fruits (tomates, fraises, poivrons).
 
     Limites : La faible teneur en azote ne favorisera pas une croissance foliaire rapide, ce qui n'est pas idéal pour les plantes au début de leur cycle de croissance végétative.
-    En résumé, le choix entre A et B dépend entièrement du type de plante et de son stade de développement. L'engrais 5-0-2 est un "booster de feuilles", tandis que le 1-5-8 est un "booster de fleurs, fruits et racines". (Source: Google AI))
+    En résumé, le choix entre A et B dépend entièrement du type de plante et de son stade
+    de développement. L'engrais 5-0-2 est un "booster de feuilles", tandis que le 1-5-8 est un "booster de fleurs, fruits et racines". (Source: Google AI))

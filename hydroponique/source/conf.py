@@ -47,7 +47,6 @@ html_theme_options = {'show_powered_by' : 'False',}
 html_theme_options = {
     'analytics_anonymize_ip': False,
     'logo_only': False,
-    'display_version': True,
     'prev_next_buttons_location': 'bottom',
     'style_external_links': False,
     'vcs_pageview_mode': '',
