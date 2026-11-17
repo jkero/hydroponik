@@ -1,35 +1,26 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <script src="_static/externe/plantes/js/jquery37.js"></script>
-  <script src="_static/externe/plantes/js/poupoune.js"></script>
 <link href="_static/externe/plantes/css/jktab.css" rel="stylesheet">
-</head>
-<body>
 <div id="main2">
-Cliquer les entêtes de colonnes pour trier (marche pas sur certains navigateurs).
-    <p>
-    <button class="b_vert" onclick="history.back()">Retour</button>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<button class="b_vert" onclick="location.href='#lebottom';">Bas de page</button><a name="letop"/>
-    </p>
-    <table>
-        <thead id="headings">
-          <tr>
-                <th data-attr="nom">Nom</th>
-                <th data-attr="name">Name</th>
-                <th data-attr="ec_min">EC_min</th>
-                <th data-attr="ec_max">EC_max</th>
-                <th data-attr="ph_min">Ph_min</th>
-                <th data-attr="ph_max">Ph_max</th>
-            </tr>
-        </thead>
-        <tbody id="results">
-            <!-- this will be auto-populated -->
-        </tbody>
-    </table>
-    </p>
-    <a name="lebottom"/><button class="b_vert" onclick="location.href='#letop';">Haut de page</button>
+  <p>Cliquer les entêtes de colonnes pour trier (un 2<sup>e</sup> clic inverse le sens).</p>
+  <p id="letop">
+    <button class="b_vert" type="button" onclick="history.back()">Retour</button>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <button class="b_vert" type="button" onclick="location.href='#lebottom'">Bas de page</button>
+  </p>
+  <table>
+    <thead id="headings">
+      <tr>
+        <th data-attr="nom">Nom</th>
+        <th data-attr="name">Name</th>
+        <th data-attr="ec_min">EC_min</th>
+        <th data-attr="ec_max">EC_max</th>
+        <th data-attr="ph_min">pH_min</th>
+        <th data-attr="ph_max">pH_max</th>
+      </tr>
+    </thead>
+    <tbody id="results"></tbody>
+  </table>
+  <p id="lebottom">
+    <button class="b_vert" type="button" onclick="location.href='#letop'">Haut de page</button>
+  </p>
 </div>
-</p>
-</body>
-</html>
+<script src="_static/externe/plantes/js/poupoune.js"></script>

@@ -17,7 +17,7 @@ Les solutions nutritives
      - 1-5-8
      - N=1% P\ :sub:`2`\ O\ :sub:`5`\=5% K\ :sub:`2`\ O=8% S=1.86% Mg=0.8% B=0.011% Mo=0.002%
 
-V. notes (réf: google AI) [#AetB]_.
+V\. notes (réf: google AI) [#AetB]_.
 
 Posologie du fabricant
 ++++++++++++++++++++++
@@ -62,3 +62,46 @@ Il y a donc des compromis à faire car il y a des écarts entre les valeurs des 
     Limites : La faible teneur en azote ne favorisera pas une croissance foliaire rapide, ce qui n'est pas idéal pour les plantes au début de leur cycle de croissance végétative.
     En résumé, le choix entre A et B dépend entièrement du type de plante et de son stade
     de développement. L'engrais 5-0-2 est un "booster de feuilles", tandis que le 1-5-8 est un "booster de fleurs, fruits et racines". (Source: Google AI))
+
+Autre produit (saison 6, 2026)
+++++++++++++++++++++++++++++++
+
+ .. list-table:: Composition des solutions nutritives A et B,  Un obscur fournisseur, **PlantaPulse**.
+   :header-rows: 1
+   :widths: 40 30 30
+   :align: center
+
+   * - Composé
+     - Solution A
+     - Solution B
+   * - Azote total (N)
+     - 11,0 %
+     - 12 %
+   * - P₂O₅ soluble
+     - 9,0 %
+     - 0
+   * - K₂O
+     - 30,0 %
+     - 0
+   * - CaO
+     - 0
+     - 15 %
+   * - MgO
+     - 2,0 %
+     - 5 %
+   * - EDTA-Fe
+     - 0,3 %
+     - 0
+   * - EDTA-Mn
+     - 0,06 %
+     - 0
+   * - EDTA-Cu
+     - 0,005 %
+     - 0
+   * - EDTA-Zn
+     - 0,01 %
+     - 0
+   * - B (bore)
+     - 0,1 %
+     - 0
+

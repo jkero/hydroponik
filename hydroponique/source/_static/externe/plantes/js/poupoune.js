@@ -1514,60 +1514,72 @@ var arr = [
 ];
 
 
-$(function() {
-    $('#headings th').on('click', function() {
-        var attr = $(this).attr('data-attr');
-        var asc = (!$(this).attr('data-asc')); // switch the order, true if not set
+/*
+ * Tri des colonnes — JavaScript natif, sans jQuery.
+ * - Colonnes numériques (EC, pH) triées comme des nombres.
+ * - Colonnes texte triées avec un Intl.Collator français (accents, casse).
+ * - Valeurs négatives (= « pas trouvé ») toujours en bas, quel que soit le sens.
+ * - À égalité, tri secondaire par nom.
+ */
+(function () {
+    "use strict";
 
-        // clear any previous sort order indicators
-        $('#headings th').each(function() {
-            $(this).removeAttr('data-asc');
+    var NUMERIQUES = { ec_min: true, ec_max: true, ph_min: true, ph_max: true };
+    var collator = new Intl.Collator("fr", { sensitivity: "base", numeric: true });
+
+    function trier(prop, asc) {
+        arr.sort(function (a, b) {
+            var r;
+            if (NUMERIQUES[prop]) {
+                var x = parseFloat(a[prop]), y = parseFloat(b[prop]);
+                var manqueX = !(x >= 0), manqueY = !(y >= 0);   // négatif ou NaN
+                if (manqueX !== manqueY) { return manqueX ? 1 : -1; }
+                r = manqueX ? 0 : x - y;
+            } else {
+                r = collator.compare(String(a[prop]).trim(), String(b[prop]).trim());
+            }
+            if (!asc) { r = -r; }
+            if (r === 0) { r = collator.compare(a.nom.trim(), b.nom.trim()); }
+            return r;
         });
-        // set sort order indicator
-        if (asc) {
-            $(this).attr('data-asc', 'asc');
-        }
-
-        JK_sortResults(attr, asc);
-    });
-
-    renderResults();
-});
-
-function sortResults(prop, asc) {
-    arr.sort(function(a, b) {
-        if (asc) {
-            return (a[prop] > b[prop]) ? 1 : ((a[prop] < b[prop]) ? -1 : 0);
-        } else {
-            return (b[prop] > a[prop]) ? 1 : ((b[prop] < a[prop]) ? -1 : 0);
-        }
-    });
-    renderResults();
-}
-
-function JK_sortResults(prop, asc) {
-    arr.sort(function(a, b) {
-        if (asc) {
-            return (a[prop].localeCompare(b[prop], "fr")) > 1 ? 1 : ((a[prop].localeCompare(b[prop], "fr")) < 1 ? -1 : 0);
-        } else {
-            return (b[prop].localeCompare(a[prop], "fr"))  > 1 ? 1 : ((b[prop].localeCompare(a[prop], "fr")) < 1 ? -1 : 0);
-        }
-    });
-    renderResults();
-}
-
-
-function renderResults () {
-    var html = '';
-    for (var e in arr) {
-        html += '<tr>'
-            +'<td>'+arr[e].nom+'</td>'
-            +'<td>'+arr[e].name+'</td>'
-            +'<td>'+arr[e].ec_min+'</td>'
-            +'<td>'+arr[e].ec_max+'</td>'
-            +'<td>'+arr[e].ph_min+'</td>'
-            +'<td>'+arr[e].ph_max+'</td>'
-        +'</tr>';
+        afficher();
     }
-    $('#results').html(html);
-}
+
+    function afficher() {
+        var tbody = document.getElementById("results");
+        if (!tbody) { return; }
+        var cols = ["nom", "name", "ec_min", "ec_max", "ph_min", "ph_max"];
+        var frag = document.createDocumentFragment();
+        arr.forEach(function (ligne) {
+            var tr = document.createElement("tr");
+            cols.forEach(function (c) {
+                var td = document.createElement("td");
+                td.textContent = ligne[c];
+                tr.appendChild(td);
+            });
+            frag.appendChild(tr);
+        });
+        tbody.replaceChildren(frag);
+    }
+
+    function init() {
+        var entetes = document.querySelectorAll("#headings th");
+        entetes.forEach(function (th) {
+            th.addEventListener("click", function () {
+                var asc = th.getAttribute("data-sort") !== "asc";   // bascule
+                entetes.forEach(function (autre) { autre.removeAttribute("data-sort"); });
+                th.setAttribute("data-sort", asc ? "asc" : "desc");
+                trier(th.getAttribute("data-attr"), asc);
+            });
+        });
+        trier("nom", true);
+        var thNom = document.querySelector('#headings th[data-attr="nom"]');
+        if (thNom) { thNom.setAttribute("data-sort", "asc"); }
+    }
+
+    if (document.readyState === "loading") {
+        document.addEventListener("DOMContentLoaded", init);
+    } else {
+        init();
+    }
+})();

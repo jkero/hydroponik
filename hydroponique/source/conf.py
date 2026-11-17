@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Hydroponique'
-copyright = '2025-2026, jk@spherik.ca'
+copyright = '2026-2027, jk@spherik.ca'
 author = 'jk'
 release = '0.1'
 
@@ -33,10 +33,14 @@ extensions = ['sphinxcontrib.plantuml',
 plantuml = "/usr/bin/plantuml"
 
 #GRAPHVIZ_DOT='C:\\UML_tools\\Graphviz\\bin\\dot.exe'
-GRAPHVIZ_DOT='/usr/bin/dot'
+#GRAPHVIZ_DOT='/usr/bin/dot'
+graphviz_dot = '/usr/bin/dot'
 
 templates_path = ['_templates']
 exclude_patterns = []
+
+plantuml_output_format = 'svg'
+graphviz_output_format = 'svg'
 
 language = 'fr'
 
@@ -46,7 +50,6 @@ language = 'fr'
 html_theme = "sphinx_rtd_theme"
 html_theme_options = {'show_powered_by' : 'False',} 
 html_theme_options = {
-    'analytics_anonymize_ip': False,
     'logo_only': False,
     'prev_next_buttons_location': 'bottom',
     'style_external_links': False,
@@ -59,7 +62,7 @@ html_theme_options = {
     'includehidden': True,
     'titles_only': False,}
 html_show_sourcelink = False
-html_static_path = ['_static','_static/externe','_static/externe/plantes','_static/externe/plantes/css','_static/externe/plantes/js']
+html_static_path = ['_static']
 html_css_files = ['jk.css']
 html_output_encoding = 'utf-8'
 
