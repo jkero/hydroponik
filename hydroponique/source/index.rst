@@ -23,6 +23,7 @@ Notes de notre projet hydroponique
    saison3
    saison4
    saison5
+   saison6
    semis
 
 Derniers changements : |today|

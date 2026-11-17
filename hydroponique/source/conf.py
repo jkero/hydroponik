@@ -28,8 +28,9 @@ extensions = ['sphinxcontrib.plantuml',
               'sphinx.ext.intersphinx',
               ]
 
-plantuml = ['java', '-jar', '/usr/share/java/plantuml/plantuml.jar']
+#plantuml = ['java', '-jar', '/usr/share/java/plantuml/plantuml.jar']
 #plantuml = ['java', '-jar', 'c:\\UML_tools\\plantuml\\plantuml.jar']
+plantuml = "/usr/bin/plantuml"
 
 #GRAPHVIZ_DOT='C:\\UML_tools\\Graphviz\\bin\\dot.exe'
 GRAPHVIZ_DOT='/usr/bin/dot'
